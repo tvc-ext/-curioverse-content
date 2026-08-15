@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "packVersion": 1,
+  "packVersion": 2,
   "topicId": "seven_wonders",
-  "questionCount": 50,
+  "questionCount": 100,
   "questions": [
     {
       "id": "seven_wonders.india.v0",
@@ -890,6 +890,906 @@
       "id": "seven_wonders.protect.v4",
       "conceptId": "protect",
       "prompt": "Final clue — Why is conservation important at famous monuments?",
+      "options": [
+        "It prevents all learning",
+        "It protects evidence and heritage",
+        "It erases history"
+      ],
+      "correctIndex": 1,
+      "explanation": "Careful conservation preserves sites for future generations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.india.v5",
+      "conceptId": "india",
+      "prompt": "Reason it out: Which New Seven Wonder is in India?",
+      "options": [
+        "Machu Picchu",
+        "Taj Mahal",
+        "Colosseum"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Taj Mahal is in Agra.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.india.v6",
+      "conceptId": "india",
+      "prompt": "Quick recall challenge: Which New Seven Wonder is in India?",
+      "options": [
+        "Colosseum",
+        "Machu Picchu",
+        "Taj Mahal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Taj Mahal is in Agra.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.india.v7",
+      "conceptId": "india",
+      "prompt": "Apply the clue: Which New Seven Wonder is in India?",
+      "options": [
+        "Taj Mahal",
+        "Colosseum",
+        "Machu Picchu"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Taj Mahal is in Agra.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.india.v8",
+      "conceptId": "india",
+      "prompt": "Expert checkpoint: Which New Seven Wonder is in India?",
+      "options": [
+        "Machu Picchu",
+        "Colosseum",
+        "Taj Mahal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Taj Mahal is in Agra.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.india.v9",
+      "conceptId": "india",
+      "prompt": "Final mastery question: Which New Seven Wonder is in India?",
+      "options": [
+        "Colosseum",
+        "Taj Mahal",
+        "Machu Picchu"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Taj Mahal is in Agra.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.china.v5",
+      "conceptId": "china",
+      "prompt": "Reason it out: Which wonder stretches across northern China?",
+      "options": [
+        "Petra",
+        "Great Wall of China",
+        "Chichén Itzá"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Great Wall consists of many fortification sections.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.china.v6",
+      "conceptId": "china",
+      "prompt": "Quick recall challenge: Which wonder stretches across northern China?",
+      "options": [
+        "Chichén Itzá",
+        "Petra",
+        "Great Wall of China"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Great Wall consists of many fortification sections.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.china.v7",
+      "conceptId": "china",
+      "prompt": "Apply the clue: Which wonder stretches across northern China?",
+      "options": [
+        "Great Wall of China",
+        "Chichén Itzá",
+        "Petra"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Great Wall consists of many fortification sections.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.china.v8",
+      "conceptId": "china",
+      "prompt": "Expert checkpoint: Which wonder stretches across northern China?",
+      "options": [
+        "Petra",
+        "Chichén Itzá",
+        "Great Wall of China"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Great Wall consists of many fortification sections.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.china.v9",
+      "conceptId": "china",
+      "prompt": "Final mastery question: Which wonder stretches across northern China?",
+      "options": [
+        "Chichén Itzá",
+        "Great Wall of China",
+        "Petra"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Great Wall consists of many fortification sections.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.jordan.v5",
+      "conceptId": "jordan",
+      "prompt": "Reason it out: Which rock-cut wonder is in Jordan?",
+      "options": [
+        "Colosseum",
+        "Petra",
+        "Christ the Redeemer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Petra was an important Nabataean city.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.jordan.v6",
+      "conceptId": "jordan",
+      "prompt": "Quick recall challenge: Which rock-cut wonder is in Jordan?",
+      "options": [
+        "Christ the Redeemer",
+        "Colosseum",
+        "Petra"
+      ],
+      "correctIndex": 2,
+      "explanation": "Petra was an important Nabataean city.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.jordan.v7",
+      "conceptId": "jordan",
+      "prompt": "Apply the clue: Which rock-cut wonder is in Jordan?",
+      "options": [
+        "Petra",
+        "Christ the Redeemer",
+        "Colosseum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Petra was an important Nabataean city.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.jordan.v8",
+      "conceptId": "jordan",
+      "prompt": "Expert checkpoint: Which rock-cut wonder is in Jordan?",
+      "options": [
+        "Colosseum",
+        "Christ the Redeemer",
+        "Petra"
+      ],
+      "correctIndex": 2,
+      "explanation": "Petra was an important Nabataean city.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.jordan.v9",
+      "conceptId": "jordan",
+      "prompt": "Final mastery question: Which rock-cut wonder is in Jordan?",
+      "options": [
+        "Christ the Redeemer",
+        "Petra",
+        "Colosseum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Petra was an important Nabataean city.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.italy.v5",
+      "conceptId": "italy",
+      "prompt": "Reason it out: Which ancient amphitheatre is in Rome?",
+      "options": [
+        "Taj Mahal",
+        "Colosseum",
+        "Machu Picchu"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Colosseum hosted spectacles in ancient Rome.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.italy.v6",
+      "conceptId": "italy",
+      "prompt": "Quick recall challenge: Which ancient amphitheatre is in Rome?",
+      "options": [
+        "Machu Picchu",
+        "Taj Mahal",
+        "Colosseum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Colosseum hosted spectacles in ancient Rome.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.italy.v7",
+      "conceptId": "italy",
+      "prompt": "Apply the clue: Which ancient amphitheatre is in Rome?",
+      "options": [
+        "Colosseum",
+        "Machu Picchu",
+        "Taj Mahal"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Colosseum hosted spectacles in ancient Rome.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.italy.v8",
+      "conceptId": "italy",
+      "prompt": "Expert checkpoint: Which ancient amphitheatre is in Rome?",
+      "options": [
+        "Taj Mahal",
+        "Machu Picchu",
+        "Colosseum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Colosseum hosted spectacles in ancient Rome.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.italy.v9",
+      "conceptId": "italy",
+      "prompt": "Final mastery question: Which ancient amphitheatre is in Rome?",
+      "options": [
+        "Machu Picchu",
+        "Colosseum",
+        "Taj Mahal"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Colosseum hosted spectacles in ancient Rome.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.peru.v5",
+      "conceptId": "peru",
+      "prompt": "Reason it out: Which Inca site stands high in the Andes?",
+      "options": [
+        "Petra",
+        "Machu Picchu",
+        "Great Wall"
+      ],
+      "correctIndex": 1,
+      "explanation": "Machu Picchu is in present-day Peru.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.peru.v6",
+      "conceptId": "peru",
+      "prompt": "Quick recall challenge: Which Inca site stands high in the Andes?",
+      "options": [
+        "Great Wall",
+        "Petra",
+        "Machu Picchu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Machu Picchu is in present-day Peru.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.peru.v7",
+      "conceptId": "peru",
+      "prompt": "Apply the clue: Which Inca site stands high in the Andes?",
+      "options": [
+        "Machu Picchu",
+        "Great Wall",
+        "Petra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Machu Picchu is in present-day Peru.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.peru.v8",
+      "conceptId": "peru",
+      "prompt": "Expert checkpoint: Which Inca site stands high in the Andes?",
+      "options": [
+        "Petra",
+        "Great Wall",
+        "Machu Picchu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Machu Picchu is in present-day Peru.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.peru.v9",
+      "conceptId": "peru",
+      "prompt": "Final mastery question: Which Inca site stands high in the Andes?",
+      "options": [
+        "Great Wall",
+        "Machu Picchu",
+        "Petra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Machu Picchu is in present-day Peru.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.mexico.v5",
+      "conceptId": "mexico",
+      "prompt": "Reason it out: Which Maya site includes the pyramid El Castillo?",
+      "options": [
+        "Colosseum",
+        "Chichén Itzá",
+        "Taj Mahal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chichén Itzá is on Mexico’s Yucatán Peninsula.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.mexico.v6",
+      "conceptId": "mexico",
+      "prompt": "Quick recall challenge: Which Maya site includes the pyramid El Castillo?",
+      "options": [
+        "Taj Mahal",
+        "Colosseum",
+        "Chichén Itzá"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chichén Itzá is on Mexico’s Yucatán Peninsula.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.mexico.v7",
+      "conceptId": "mexico",
+      "prompt": "Apply the clue: Which Maya site includes the pyramid El Castillo?",
+      "options": [
+        "Chichén Itzá",
+        "Taj Mahal",
+        "Colosseum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chichén Itzá is on Mexico’s Yucatán Peninsula.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.mexico.v8",
+      "conceptId": "mexico",
+      "prompt": "Expert checkpoint: Which Maya site includes the pyramid El Castillo?",
+      "options": [
+        "Colosseum",
+        "Taj Mahal",
+        "Chichén Itzá"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chichén Itzá is on Mexico’s Yucatán Peninsula.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.mexico.v9",
+      "conceptId": "mexico",
+      "prompt": "Final mastery question: Which Maya site includes the pyramid El Castillo?",
+      "options": [
+        "Taj Mahal",
+        "Chichén Itzá",
+        "Colosseum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chichén Itzá is on Mexico’s Yucatán Peninsula.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.brazil.v5",
+      "conceptId": "brazil",
+      "prompt": "Reason it out: Which wonder overlooks Rio de Janeiro?",
+      "options": [
+        "Petra",
+        "Christ the Redeemer",
+        "Great Wall"
+      ],
+      "correctIndex": 1,
+      "explanation": "The statue stands on Corcovado mountain.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.brazil.v6",
+      "conceptId": "brazil",
+      "prompt": "Quick recall challenge: Which wonder overlooks Rio de Janeiro?",
+      "options": [
+        "Great Wall",
+        "Petra",
+        "Christ the Redeemer"
+      ],
+      "correctIndex": 2,
+      "explanation": "The statue stands on Corcovado mountain.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.brazil.v7",
+      "conceptId": "brazil",
+      "prompt": "Apply the clue: Which wonder overlooks Rio de Janeiro?",
+      "options": [
+        "Christ the Redeemer",
+        "Great Wall",
+        "Petra"
+      ],
+      "correctIndex": 0,
+      "explanation": "The statue stands on Corcovado mountain.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.brazil.v8",
+      "conceptId": "brazil",
+      "prompt": "Expert checkpoint: Which wonder overlooks Rio de Janeiro?",
+      "options": [
+        "Petra",
+        "Great Wall",
+        "Christ the Redeemer"
+      ],
+      "correctIndex": 2,
+      "explanation": "The statue stands on Corcovado mountain.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.brazil.v9",
+      "conceptId": "brazil",
+      "prompt": "Final mastery question: Which wonder overlooks Rio de Janeiro?",
+      "options": [
+        "Great Wall",
+        "Christ the Redeemer",
+        "Petra"
+      ],
+      "correctIndex": 1,
+      "explanation": "The statue stands on Corcovado mountain.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.list.v5",
+      "conceptId": "list",
+      "prompt": "Reason it out: How were the New Seven Wonders announced?",
+      "options": [
+        "By an ancient Roman law",
+        "Through a global public campaign",
+        "By a space mission"
+      ],
+      "correctIndex": 1,
+      "explanation": "The modern list was announced in 2007 after a public campaign.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.list.v6",
+      "conceptId": "list",
+      "prompt": "Quick recall challenge: How were the New Seven Wonders announced?",
+      "options": [
+        "By a space mission",
+        "By an ancient Roman law",
+        "Through a global public campaign"
+      ],
+      "correctIndex": 2,
+      "explanation": "The modern list was announced in 2007 after a public campaign.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.list.v7",
+      "conceptId": "list",
+      "prompt": "Apply the clue: How were the New Seven Wonders announced?",
+      "options": [
+        "Through a global public campaign",
+        "By a space mission",
+        "By an ancient Roman law"
+      ],
+      "correctIndex": 0,
+      "explanation": "The modern list was announced in 2007 after a public campaign.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.list.v8",
+      "conceptId": "list",
+      "prompt": "Expert checkpoint: How were the New Seven Wonders announced?",
+      "options": [
+        "By an ancient Roman law",
+        "By a space mission",
+        "Through a global public campaign"
+      ],
+      "correctIndex": 2,
+      "explanation": "The modern list was announced in 2007 after a public campaign.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.list.v9",
+      "conceptId": "list",
+      "prompt": "Final mastery question: How were the New Seven Wonders announced?",
+      "options": [
+        "By a space mission",
+        "Through a global public campaign",
+        "By an ancient Roman law"
+      ],
+      "correctIndex": 1,
+      "explanation": "The modern list was announced in 2007 after a public campaign.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.ancient.v5",
+      "conceptId": "ancient",
+      "prompt": "Reason it out: Which surviving structure belonged to the Ancient Seven Wonders?",
+      "options": [
+        "Taj Mahal",
+        "Great Pyramid of Giza",
+        "Christ the Redeemer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Great Pyramid is the only substantially surviving ancient wonder.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.ancient.v6",
+      "conceptId": "ancient",
+      "prompt": "Quick recall challenge: Which surviving structure belonged to the Ancient Seven Wonders?",
+      "options": [
+        "Christ the Redeemer",
+        "Taj Mahal",
+        "Great Pyramid of Giza"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Great Pyramid is the only substantially surviving ancient wonder.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.ancient.v7",
+      "conceptId": "ancient",
+      "prompt": "Apply the clue: Which surviving structure belonged to the Ancient Seven Wonders?",
+      "options": [
+        "Great Pyramid of Giza",
+        "Christ the Redeemer",
+        "Taj Mahal"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Great Pyramid is the only substantially surviving ancient wonder.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.ancient.v8",
+      "conceptId": "ancient",
+      "prompt": "Expert checkpoint: Which surviving structure belonged to the Ancient Seven Wonders?",
+      "options": [
+        "Taj Mahal",
+        "Christ the Redeemer",
+        "Great Pyramid of Giza"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Great Pyramid is the only substantially surviving ancient wonder.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.ancient.v9",
+      "conceptId": "ancient",
+      "prompt": "Final mastery question: Which surviving structure belonged to the Ancient Seven Wonders?",
+      "options": [
+        "Christ the Redeemer",
+        "Great Pyramid of Giza",
+        "Taj Mahal"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Great Pyramid is the only substantially surviving ancient wonder.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.protect.v5",
+      "conceptId": "protect",
+      "prompt": "Reason it out: Why is conservation important at famous monuments?",
+      "options": [
+        "It erases history",
+        "It protects evidence and heritage",
+        "It prevents all learning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Careful conservation preserves sites for future generations.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.protect.v6",
+      "conceptId": "protect",
+      "prompt": "Quick recall challenge: Why is conservation important at famous monuments?",
+      "options": [
+        "It prevents all learning",
+        "It erases history",
+        "It protects evidence and heritage"
+      ],
+      "correctIndex": 2,
+      "explanation": "Careful conservation preserves sites for future generations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.protect.v7",
+      "conceptId": "protect",
+      "prompt": "Apply the clue: Why is conservation important at famous monuments?",
+      "options": [
+        "It protects evidence and heritage",
+        "It prevents all learning",
+        "It erases history"
+      ],
+      "correctIndex": 0,
+      "explanation": "Careful conservation preserves sites for future generations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.protect.v8",
+      "conceptId": "protect",
+      "prompt": "Expert checkpoint: Why is conservation important at famous monuments?",
+      "options": [
+        "It erases history",
+        "It prevents all learning",
+        "It protects evidence and heritage"
+      ],
+      "correctIndex": 2,
+      "explanation": "Careful conservation preserves sites for future generations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "seven_wonders.protect.v9",
+      "conceptId": "protect",
+      "prompt": "Final mastery question: Why is conservation important at famous monuments?",
       "options": [
         "It prevents all learning",
         "It protects evidence and heritage",
