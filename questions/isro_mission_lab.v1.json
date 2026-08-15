@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "packVersion": 1,
+  "packVersion": 2,
   "topicId": "isro_mission_lab",
-  "questionCount": 50,
+  "questionCount": 100,
   "questions": [
     {
       "id": "isro_mission_lab.agency.v0",
@@ -890,6 +890,906 @@
       "id": "isro_mission_lab.l1.v4",
       "conceptId": "l1",
       "prompt": "Final clue — What is the Sun–Earth L1 region useful for?",
+      "options": [
+        "Growing forests",
+        "Nearly continuous solar observation",
+        "Landing submarines"
+      ],
+      "correctIndex": 1,
+      "explanation": "A spacecraft near L1 can monitor the Sun with few Earth eclipses.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.agency.v5",
+      "conceptId": "agency",
+      "prompt": "Reason it out: What does ISRO stand for?",
+      "options": [
+        "International Sea Research Office",
+        "Indian Space Research Organisation",
+        "Indian Science Railway Office"
+      ],
+      "correctIndex": 1,
+      "explanation": "ISRO is India’s national space agency.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.agency.v6",
+      "conceptId": "agency",
+      "prompt": "Quick recall challenge: What does ISRO stand for?",
+      "options": [
+        "Indian Science Railway Office",
+        "International Sea Research Office",
+        "Indian Space Research Organisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "ISRO is India’s national space agency.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.agency.v7",
+      "conceptId": "agency",
+      "prompt": "Apply the clue: What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organisation",
+        "Indian Science Railway Office",
+        "International Sea Research Office"
+      ],
+      "correctIndex": 0,
+      "explanation": "ISRO is India’s national space agency.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.agency.v8",
+      "conceptId": "agency",
+      "prompt": "Expert checkpoint: What does ISRO stand for?",
+      "options": [
+        "International Sea Research Office",
+        "Indian Science Railway Office",
+        "Indian Space Research Organisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "ISRO is India’s national space agency.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.agency.v9",
+      "conceptId": "agency",
+      "prompt": "Final mastery question: What does ISRO stand for?",
+      "options": [
+        "Indian Science Railway Office",
+        "Indian Space Research Organisation",
+        "International Sea Research Office"
+      ],
+      "correctIndex": 1,
+      "explanation": "ISRO is India’s national space agency.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.vikram.v5",
+      "conceptId": "vikram",
+      "prompt": "Reason it out: What was Vikram in Chandrayaan-3?",
+      "options": [
+        "Mars telescope",
+        "Lunar lander",
+        "Launch pad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vikram carried the Pragyan rover to the lunar surface.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.vikram.v6",
+      "conceptId": "vikram",
+      "prompt": "Quick recall challenge: What was Vikram in Chandrayaan-3?",
+      "options": [
+        "Launch pad",
+        "Mars telescope",
+        "Lunar lander"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vikram carried the Pragyan rover to the lunar surface.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.vikram.v7",
+      "conceptId": "vikram",
+      "prompt": "Apply the clue: What was Vikram in Chandrayaan-3?",
+      "options": [
+        "Lunar lander",
+        "Launch pad",
+        "Mars telescope"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vikram carried the Pragyan rover to the lunar surface.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.vikram.v8",
+      "conceptId": "vikram",
+      "prompt": "Expert checkpoint: What was Vikram in Chandrayaan-3?",
+      "options": [
+        "Mars telescope",
+        "Launch pad",
+        "Lunar lander"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vikram carried the Pragyan rover to the lunar surface.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.vikram.v9",
+      "conceptId": "vikram",
+      "prompt": "Final mastery question: What was Vikram in Chandrayaan-3?",
+      "options": [
+        "Launch pad",
+        "Lunar lander",
+        "Mars telescope"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vikram carried the Pragyan rover to the lunar surface.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pragyan.v5",
+      "conceptId": "pragyan",
+      "prompt": "Reason it out: What was Pragyan in Chandrayaan-3?",
+      "options": [
+        "Weather balloon",
+        "Lunar rover",
+        "Space station"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pragyan explored near the landing site.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pragyan.v6",
+      "conceptId": "pragyan",
+      "prompt": "Quick recall challenge: What was Pragyan in Chandrayaan-3?",
+      "options": [
+        "Space station",
+        "Weather balloon",
+        "Lunar rover"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pragyan explored near the landing site.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pragyan.v7",
+      "conceptId": "pragyan",
+      "prompt": "Apply the clue: What was Pragyan in Chandrayaan-3?",
+      "options": [
+        "Lunar rover",
+        "Space station",
+        "Weather balloon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pragyan explored near the landing site.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pragyan.v8",
+      "conceptId": "pragyan",
+      "prompt": "Expert checkpoint: What was Pragyan in Chandrayaan-3?",
+      "options": [
+        "Weather balloon",
+        "Space station",
+        "Lunar rover"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pragyan explored near the landing site.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pragyan.v9",
+      "conceptId": "pragyan",
+      "prompt": "Final mastery question: What was Pragyan in Chandrayaan-3?",
+      "options": [
+        "Space station",
+        "Lunar rover",
+        "Weather balloon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pragyan explored near the landing site.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aditya.v5",
+      "conceptId": "aditya",
+      "prompt": "Reason it out: What does Aditya-L1 study?",
+      "options": [
+        "Deep oceans",
+        "The Sun",
+        "Dinosaurs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aditya-L1 is India’s solar observatory mission.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aditya.v6",
+      "conceptId": "aditya",
+      "prompt": "Quick recall challenge: What does Aditya-L1 study?",
+      "options": [
+        "Dinosaurs",
+        "Deep oceans",
+        "The Sun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aditya-L1 is India’s solar observatory mission.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aditya.v7",
+      "conceptId": "aditya",
+      "prompt": "Apply the clue: What does Aditya-L1 study?",
+      "options": [
+        "The Sun",
+        "Dinosaurs",
+        "Deep oceans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aditya-L1 is India’s solar observatory mission.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aditya.v8",
+      "conceptId": "aditya",
+      "prompt": "Expert checkpoint: What does Aditya-L1 study?",
+      "options": [
+        "Deep oceans",
+        "Dinosaurs",
+        "The Sun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aditya-L1 is India’s solar observatory mission.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aditya.v9",
+      "conceptId": "aditya",
+      "prompt": "Final mastery question: What does Aditya-L1 study?",
+      "options": [
+        "Dinosaurs",
+        "The Sun",
+        "Deep oceans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aditya-L1 is India’s solar observatory mission.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.mom.v5",
+      "conceptId": "mom",
+      "prompt": "Reason it out: Which planet did India’s Mars Orbiter Mission study?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mission entered Mars orbit in 2014.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.mom.v6",
+      "conceptId": "mom",
+      "prompt": "Quick recall challenge: Which planet did India’s Mars Orbiter Mission study?",
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Mars"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mission entered Mars orbit in 2014.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.mom.v7",
+      "conceptId": "mom",
+      "prompt": "Apply the clue: Which planet did India’s Mars Orbiter Mission study?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mission entered Mars orbit in 2014.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.mom.v8",
+      "conceptId": "mom",
+      "prompt": "Expert checkpoint: Which planet did India’s Mars Orbiter Mission study?",
+      "options": [
+        "Venus",
+        "Jupiter",
+        "Mars"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mission entered Mars orbit in 2014.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.mom.v9",
+      "conceptId": "mom",
+      "prompt": "Final mastery question: Which planet did India’s Mars Orbiter Mission study?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mission entered Mars orbit in 2014.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pslv.v5",
+      "conceptId": "pslv",
+      "prompt": "Reason it out: What type of machine is PSLV?",
+      "options": [
+        "Lunar crater",
+        "Launch vehicle",
+        "Ocean robot"
+      ],
+      "correctIndex": 1,
+      "explanation": "PSLV launches spacecraft into orbit.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pslv.v6",
+      "conceptId": "pslv",
+      "prompt": "Quick recall challenge: What type of machine is PSLV?",
+      "options": [
+        "Ocean robot",
+        "Lunar crater",
+        "Launch vehicle"
+      ],
+      "correctIndex": 2,
+      "explanation": "PSLV launches spacecraft into orbit.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pslv.v7",
+      "conceptId": "pslv",
+      "prompt": "Apply the clue: What type of machine is PSLV?",
+      "options": [
+        "Launch vehicle",
+        "Ocean robot",
+        "Lunar crater"
+      ],
+      "correctIndex": 0,
+      "explanation": "PSLV launches spacecraft into orbit.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pslv.v8",
+      "conceptId": "pslv",
+      "prompt": "Expert checkpoint: What type of machine is PSLV?",
+      "options": [
+        "Lunar crater",
+        "Ocean robot",
+        "Launch vehicle"
+      ],
+      "correctIndex": 2,
+      "explanation": "PSLV launches spacecraft into orbit.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.pslv.v9",
+      "conceptId": "pslv",
+      "prompt": "Final mastery question: What type of machine is PSLV?",
+      "options": [
+        "Ocean robot",
+        "Launch vehicle",
+        "Lunar crater"
+      ],
+      "correctIndex": 1,
+      "explanation": "PSLV launches spacecraft into orbit.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.navic.v5",
+      "conceptId": "navic",
+      "prompt": "Reason it out: What is NavIC?",
+      "options": [
+        "A Moon rock",
+        "Indian regional navigation system",
+        "A telescope mirror"
+      ],
+      "correctIndex": 1,
+      "explanation": "NavIC provides positioning, navigation and timing services.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.navic.v6",
+      "conceptId": "navic",
+      "prompt": "Quick recall challenge: What is NavIC?",
+      "options": [
+        "A telescope mirror",
+        "A Moon rock",
+        "Indian regional navigation system"
+      ],
+      "correctIndex": 2,
+      "explanation": "NavIC provides positioning, navigation and timing services.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.navic.v7",
+      "conceptId": "navic",
+      "prompt": "Apply the clue: What is NavIC?",
+      "options": [
+        "Indian regional navigation system",
+        "A telescope mirror",
+        "A Moon rock"
+      ],
+      "correctIndex": 0,
+      "explanation": "NavIC provides positioning, navigation and timing services.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.navic.v8",
+      "conceptId": "navic",
+      "prompt": "Expert checkpoint: What is NavIC?",
+      "options": [
+        "A Moon rock",
+        "A telescope mirror",
+        "Indian regional navigation system"
+      ],
+      "correctIndex": 2,
+      "explanation": "NavIC provides positioning, navigation and timing services.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.navic.v9",
+      "conceptId": "navic",
+      "prompt": "Final mastery question: What is NavIC?",
+      "options": [
+        "A telescope mirror",
+        "Indian regional navigation system",
+        "A Moon rock"
+      ],
+      "correctIndex": 1,
+      "explanation": "NavIC provides positioning, navigation and timing services.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aryabhata.v5",
+      "conceptId": "aryabhata",
+      "prompt": "Reason it out: What was Aryabhata?",
+      "options": [
+        "First lunar rover",
+        "India’s first satellite",
+        "A launch centre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aryabhata was launched in 1975.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aryabhata.v6",
+      "conceptId": "aryabhata",
+      "prompt": "Quick recall challenge: What was Aryabhata?",
+      "options": [
+        "A launch centre",
+        "First lunar rover",
+        "India’s first satellite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aryabhata was launched in 1975.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aryabhata.v7",
+      "conceptId": "aryabhata",
+      "prompt": "Apply the clue: What was Aryabhata?",
+      "options": [
+        "India’s first satellite",
+        "A launch centre",
+        "First lunar rover"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aryabhata was launched in 1975.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aryabhata.v8",
+      "conceptId": "aryabhata",
+      "prompt": "Expert checkpoint: What was Aryabhata?",
+      "options": [
+        "First lunar rover",
+        "A launch centre",
+        "India’s first satellite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aryabhata was launched in 1975.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.aryabhata.v9",
+      "conceptId": "aryabhata",
+      "prompt": "Final mastery question: What was Aryabhata?",
+      "options": [
+        "A launch centre",
+        "India’s first satellite",
+        "First lunar rover"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aryabhata was launched in 1975.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.southpolar.v5",
+      "conceptId": "southpolar",
+      "prompt": "Reason it out: What made Chandrayaan-3’s landing region notable?",
+      "options": [
+        "It was on Mars",
+        "It was near the lunar south polar region",
+        "It was inside the Sun"
+      ],
+      "correctIndex": 1,
+      "explanation": "India achieved a soft landing at high southern lunar latitude.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.southpolar.v6",
+      "conceptId": "southpolar",
+      "prompt": "Quick recall challenge: What made Chandrayaan-3’s landing region notable?",
+      "options": [
+        "It was inside the Sun",
+        "It was on Mars",
+        "It was near the lunar south polar region"
+      ],
+      "correctIndex": 2,
+      "explanation": "India achieved a soft landing at high southern lunar latitude.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.southpolar.v7",
+      "conceptId": "southpolar",
+      "prompt": "Apply the clue: What made Chandrayaan-3’s landing region notable?",
+      "options": [
+        "It was near the lunar south polar region",
+        "It was inside the Sun",
+        "It was on Mars"
+      ],
+      "correctIndex": 0,
+      "explanation": "India achieved a soft landing at high southern lunar latitude.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.southpolar.v8",
+      "conceptId": "southpolar",
+      "prompt": "Expert checkpoint: What made Chandrayaan-3’s landing region notable?",
+      "options": [
+        "It was on Mars",
+        "It was inside the Sun",
+        "It was near the lunar south polar region"
+      ],
+      "correctIndex": 2,
+      "explanation": "India achieved a soft landing at high southern lunar latitude.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.southpolar.v9",
+      "conceptId": "southpolar",
+      "prompt": "Final mastery question: What made Chandrayaan-3’s landing region notable?",
+      "options": [
+        "It was inside the Sun",
+        "It was near the lunar south polar region",
+        "It was on Mars"
+      ],
+      "correctIndex": 1,
+      "explanation": "India achieved a soft landing at high southern lunar latitude.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.l1.v5",
+      "conceptId": "l1",
+      "prompt": "Reason it out: What is the Sun–Earth L1 region useful for?",
+      "options": [
+        "Landing submarines",
+        "Nearly continuous solar observation",
+        "Growing forests"
+      ],
+      "correctIndex": 1,
+      "explanation": "A spacecraft near L1 can monitor the Sun with few Earth eclipses.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.l1.v6",
+      "conceptId": "l1",
+      "prompt": "Quick recall challenge: What is the Sun–Earth L1 region useful for?",
+      "options": [
+        "Growing forests",
+        "Landing submarines",
+        "Nearly continuous solar observation"
+      ],
+      "correctIndex": 2,
+      "explanation": "A spacecraft near L1 can monitor the Sun with few Earth eclipses.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.l1.v7",
+      "conceptId": "l1",
+      "prompt": "Apply the clue: What is the Sun–Earth L1 region useful for?",
+      "options": [
+        "Nearly continuous solar observation",
+        "Growing forests",
+        "Landing submarines"
+      ],
+      "correctIndex": 0,
+      "explanation": "A spacecraft near L1 can monitor the Sun with few Earth eclipses.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.l1.v8",
+      "conceptId": "l1",
+      "prompt": "Expert checkpoint: What is the Sun–Earth L1 region useful for?",
+      "options": [
+        "Landing submarines",
+        "Growing forests",
+        "Nearly continuous solar observation"
+      ],
+      "correctIndex": 2,
+      "explanation": "A spacecraft near L1 can monitor the Sun with few Earth eclipses.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "isro_mission_lab.l1.v9",
+      "conceptId": "l1",
+      "prompt": "Final mastery question: What is the Sun–Earth L1 region useful for?",
       "options": [
         "Growing forests",
         "Nearly continuous solar observation",
