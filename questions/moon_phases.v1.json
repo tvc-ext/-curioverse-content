@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "packVersion": 1,
+  "packVersion": 2,
   "topicId": "moon_phases",
-  "questionCount": 50,
+  "questionCount": 100,
   "questions": [
     {
       "id": "moon_phases.light.v0",
@@ -890,6 +890,906 @@
       "id": "moon_phases.terminator.v4",
       "conceptId": "terminator",
       "prompt": "Final clue — What is the boundary between lunar day and night called?",
+      "options": [
+        "Crater rim",
+        "Terminator",
+        "Equator"
+      ],
+      "correctIndex": 1,
+      "explanation": "The terminator is the moving line between light and darkness.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.light.v5",
+      "conceptId": "light",
+      "prompt": "Reason it out: Where does moonlight come from?",
+      "options": [
+        "The Moon makes light",
+        "Reflected sunlight",
+        "City lights"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moon reflects light from the Sun.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.light.v6",
+      "conceptId": "light",
+      "prompt": "Quick recall challenge: Where does moonlight come from?",
+      "options": [
+        "City lights",
+        "The Moon makes light",
+        "Reflected sunlight"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moon reflects light from the Sun.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.light.v7",
+      "conceptId": "light",
+      "prompt": "Apply the clue: Where does moonlight come from?",
+      "options": [
+        "Reflected sunlight",
+        "City lights",
+        "The Moon makes light"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Moon reflects light from the Sun.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.light.v8",
+      "conceptId": "light",
+      "prompt": "Expert checkpoint: Where does moonlight come from?",
+      "options": [
+        "The Moon makes light",
+        "City lights",
+        "Reflected sunlight"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moon reflects light from the Sun.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.light.v9",
+      "conceptId": "light",
+      "prompt": "Final mastery question: Where does moonlight come from?",
+      "options": [
+        "City lights",
+        "Reflected sunlight",
+        "The Moon makes light"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moon reflects light from the Sun.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.orbit.v5",
+      "conceptId": "orbit",
+      "prompt": "Reason it out: What does the Moon travel around?",
+      "options": [
+        "Mars",
+        "Earth",
+        "The Sun only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moon orbits Earth.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.orbit.v6",
+      "conceptId": "orbit",
+      "prompt": "Quick recall challenge: What does the Moon travel around?",
+      "options": [
+        "The Sun only",
+        "Mars",
+        "Earth"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moon orbits Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.orbit.v7",
+      "conceptId": "orbit",
+      "prompt": "Apply the clue: What does the Moon travel around?",
+      "options": [
+        "Earth",
+        "The Sun only",
+        "Mars"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Moon orbits Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.orbit.v8",
+      "conceptId": "orbit",
+      "prompt": "Expert checkpoint: What does the Moon travel around?",
+      "options": [
+        "Mars",
+        "The Sun only",
+        "Earth"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moon orbits Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.orbit.v9",
+      "conceptId": "orbit",
+      "prompt": "Final mastery question: What does the Moon travel around?",
+      "options": [
+        "The Sun only",
+        "Earth",
+        "Mars"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moon orbits Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.full.v5",
+      "conceptId": "full",
+      "prompt": "Reason it out: What do we call the fully lit-looking phase?",
+      "options": [
+        "New moon",
+        "Full moon",
+        "Crescent"
+      ],
+      "correctIndex": 1,
+      "explanation": "A full moon shows nearly all of the sunlit half facing us.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.full.v6",
+      "conceptId": "full",
+      "prompt": "Quick recall challenge: What do we call the fully lit-looking phase?",
+      "options": [
+        "Crescent",
+        "New moon",
+        "Full moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "A full moon shows nearly all of the sunlit half facing us.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.full.v7",
+      "conceptId": "full",
+      "prompt": "Apply the clue: What do we call the fully lit-looking phase?",
+      "options": [
+        "Full moon",
+        "Crescent",
+        "New moon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A full moon shows nearly all of the sunlit half facing us.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.full.v8",
+      "conceptId": "full",
+      "prompt": "Expert checkpoint: What do we call the fully lit-looking phase?",
+      "options": [
+        "New moon",
+        "Crescent",
+        "Full moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "A full moon shows nearly all of the sunlit half facing us.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.full.v9",
+      "conceptId": "full",
+      "prompt": "Final mastery question: What do we call the fully lit-looking phase?",
+      "options": [
+        "Crescent",
+        "Full moon",
+        "New moon"
+      ],
+      "correctIndex": 1,
+      "explanation": "A full moon shows nearly all of the sunlit half facing us.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.new.v5",
+      "conceptId": "new",
+      "prompt": "Reason it out: Which phase is hardest to see from Earth?",
+      "options": [
+        "Full moon",
+        "New moon",
+        "First quarter"
+      ],
+      "correctIndex": 1,
+      "explanation": "At new moon, the lit half mostly faces away from Earth.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.new.v6",
+      "conceptId": "new",
+      "prompt": "Quick recall challenge: Which phase is hardest to see from Earth?",
+      "options": [
+        "First quarter",
+        "Full moon",
+        "New moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "At new moon, the lit half mostly faces away from Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.new.v7",
+      "conceptId": "new",
+      "prompt": "Apply the clue: Which phase is hardest to see from Earth?",
+      "options": [
+        "New moon",
+        "First quarter",
+        "Full moon"
+      ],
+      "correctIndex": 0,
+      "explanation": "At new moon, the lit half mostly faces away from Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.new.v8",
+      "conceptId": "new",
+      "prompt": "Expert checkpoint: Which phase is hardest to see from Earth?",
+      "options": [
+        "Full moon",
+        "First quarter",
+        "New moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "At new moon, the lit half mostly faces away from Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.new.v9",
+      "conceptId": "new",
+      "prompt": "Final mastery question: Which phase is hardest to see from Earth?",
+      "options": [
+        "First quarter",
+        "New moon",
+        "Full moon"
+      ],
+      "correctIndex": 1,
+      "explanation": "At new moon, the lit half mostly faces away from Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.shape.v5",
+      "conceptId": "shape",
+      "prompt": "Reason it out: Does the Moon physically change shape during its phases?",
+      "options": [
+        "Yes, every week",
+        "No",
+        "Only in winter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phases change our view, not the Moon’s round shape.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.shape.v6",
+      "conceptId": "shape",
+      "prompt": "Quick recall challenge: Does the Moon physically change shape during its phases?",
+      "options": [
+        "Only in winter",
+        "Yes, every week",
+        "No"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phases change our view, not the Moon’s round shape.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.shape.v7",
+      "conceptId": "shape",
+      "prompt": "Apply the clue: Does the Moon physically change shape during its phases?",
+      "options": [
+        "No",
+        "Only in winter",
+        "Yes, every week"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phases change our view, not the Moon’s round shape.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.shape.v8",
+      "conceptId": "shape",
+      "prompt": "Expert checkpoint: Does the Moon physically change shape during its phases?",
+      "options": [
+        "Yes, every week",
+        "Only in winter",
+        "No"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phases change our view, not the Moon’s round shape.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.shape.v9",
+      "conceptId": "shape",
+      "prompt": "Final mastery question: Does the Moon physically change shape during its phases?",
+      "options": [
+        "Only in winter",
+        "No",
+        "Yes, every week"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phases change our view, not the Moon’s round shape.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.month.v5",
+      "conceptId": "month",
+      "prompt": "Reason it out: About how long is one cycle of lunar phases?",
+      "options": [
+        "24 hours",
+        "29.5 days",
+        "365 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "A synodic lunar month is about 29.5 days.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.month.v6",
+      "conceptId": "month",
+      "prompt": "Quick recall challenge: About how long is one cycle of lunar phases?",
+      "options": [
+        "365 days",
+        "24 hours",
+        "29.5 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "A synodic lunar month is about 29.5 days.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.month.v7",
+      "conceptId": "month",
+      "prompt": "Apply the clue: About how long is one cycle of lunar phases?",
+      "options": [
+        "29.5 days",
+        "365 days",
+        "24 hours"
+      ],
+      "correctIndex": 0,
+      "explanation": "A synodic lunar month is about 29.5 days.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.month.v8",
+      "conceptId": "month",
+      "prompt": "Expert checkpoint: About how long is one cycle of lunar phases?",
+      "options": [
+        "24 hours",
+        "365 days",
+        "29.5 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "A synodic lunar month is about 29.5 days.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.month.v9",
+      "conceptId": "month",
+      "prompt": "Final mastery question: About how long is one cycle of lunar phases?",
+      "options": [
+        "365 days",
+        "29.5 days",
+        "24 hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "A synodic lunar month is about 29.5 days.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.eclipse.v5",
+      "conceptId": "eclipse",
+      "prompt": "Reason it out: What must line up for a lunar eclipse?",
+      "options": [
+        "Only Earth and Mars",
+        "Sun, Earth and Moon",
+        "Moon and Venus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Earth’s shadow falls on the Moon when the three align.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.eclipse.v6",
+      "conceptId": "eclipse",
+      "prompt": "Quick recall challenge: What must line up for a lunar eclipse?",
+      "options": [
+        "Moon and Venus",
+        "Only Earth and Mars",
+        "Sun, Earth and Moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Earth’s shadow falls on the Moon when the three align.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.eclipse.v7",
+      "conceptId": "eclipse",
+      "prompt": "Apply the clue: What must line up for a lunar eclipse?",
+      "options": [
+        "Sun, Earth and Moon",
+        "Moon and Venus",
+        "Only Earth and Mars"
+      ],
+      "correctIndex": 0,
+      "explanation": "Earth’s shadow falls on the Moon when the three align.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.eclipse.v8",
+      "conceptId": "eclipse",
+      "prompt": "Expert checkpoint: What must line up for a lunar eclipse?",
+      "options": [
+        "Only Earth and Mars",
+        "Moon and Venus",
+        "Sun, Earth and Moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Earth’s shadow falls on the Moon when the three align.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.eclipse.v9",
+      "conceptId": "eclipse",
+      "prompt": "Final mastery question: What must line up for a lunar eclipse?",
+      "options": [
+        "Moon and Venus",
+        "Sun, Earth and Moon",
+        "Only Earth and Mars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Earth’s shadow falls on the Moon when the three align.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.tides.v5",
+      "conceptId": "tides",
+      "prompt": "Reason it out: Which force links the Moon strongly to ocean tides?",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Sound"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moon’s gravity contributes strongly to Earth’s tides.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.tides.v6",
+      "conceptId": "tides",
+      "prompt": "Quick recall challenge: Which force links the Moon strongly to ocean tides?",
+      "options": [
+        "Sound",
+        "Magnetism",
+        "Gravity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moon’s gravity contributes strongly to Earth’s tides.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.tides.v7",
+      "conceptId": "tides",
+      "prompt": "Apply the clue: Which force links the Moon strongly to ocean tides?",
+      "options": [
+        "Gravity",
+        "Sound",
+        "Magnetism"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Moon’s gravity contributes strongly to Earth’s tides.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.tides.v8",
+      "conceptId": "tides",
+      "prompt": "Expert checkpoint: Which force links the Moon strongly to ocean tides?",
+      "options": [
+        "Magnetism",
+        "Sound",
+        "Gravity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moon’s gravity contributes strongly to Earth’s tides.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.tides.v9",
+      "conceptId": "tides",
+      "prompt": "Final mastery question: Which force links the Moon strongly to ocean tides?",
+      "options": [
+        "Sound",
+        "Gravity",
+        "Magnetism"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moon’s gravity contributes strongly to Earth’s tides.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.sameface.v5",
+      "conceptId": "sameface",
+      "prompt": "Reason it out: Why do we usually see the same side of the Moon?",
+      "options": [
+        "It never rotates",
+        "It rotates once per orbit",
+        "Clouds hide the other side"
+      ],
+      "correctIndex": 1,
+      "explanation": "Synchronous rotation keeps roughly the same face toward Earth.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.sameface.v6",
+      "conceptId": "sameface",
+      "prompt": "Quick recall challenge: Why do we usually see the same side of the Moon?",
+      "options": [
+        "Clouds hide the other side",
+        "It never rotates",
+        "It rotates once per orbit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Synchronous rotation keeps roughly the same face toward Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.sameface.v7",
+      "conceptId": "sameface",
+      "prompt": "Apply the clue: Why do we usually see the same side of the Moon?",
+      "options": [
+        "It rotates once per orbit",
+        "Clouds hide the other side",
+        "It never rotates"
+      ],
+      "correctIndex": 0,
+      "explanation": "Synchronous rotation keeps roughly the same face toward Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.sameface.v8",
+      "conceptId": "sameface",
+      "prompt": "Expert checkpoint: Why do we usually see the same side of the Moon?",
+      "options": [
+        "It never rotates",
+        "Clouds hide the other side",
+        "It rotates once per orbit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Synchronous rotation keeps roughly the same face toward Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.sameface.v9",
+      "conceptId": "sameface",
+      "prompt": "Final mastery question: Why do we usually see the same side of the Moon?",
+      "options": [
+        "Clouds hide the other side",
+        "It rotates once per orbit",
+        "It never rotates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Synchronous rotation keeps roughly the same face toward Earth.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.terminator.v5",
+      "conceptId": "terminator",
+      "prompt": "Reason it out: What is the boundary between lunar day and night called?",
+      "options": [
+        "Equator",
+        "Terminator",
+        "Crater rim"
+      ],
+      "correctIndex": 1,
+      "explanation": "The terminator is the moving line between light and darkness.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.terminator.v6",
+      "conceptId": "terminator",
+      "prompt": "Quick recall challenge: What is the boundary between lunar day and night called?",
+      "options": [
+        "Crater rim",
+        "Equator",
+        "Terminator"
+      ],
+      "correctIndex": 2,
+      "explanation": "The terminator is the moving line between light and darkness.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.terminator.v7",
+      "conceptId": "terminator",
+      "prompt": "Apply the clue: What is the boundary between lunar day and night called?",
+      "options": [
+        "Terminator",
+        "Crater rim",
+        "Equator"
+      ],
+      "correctIndex": 0,
+      "explanation": "The terminator is the moving line between light and darkness.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.terminator.v8",
+      "conceptId": "terminator",
+      "prompt": "Expert checkpoint: What is the boundary between lunar day and night called?",
+      "options": [
+        "Equator",
+        "Crater rim",
+        "Terminator"
+      ],
+      "correctIndex": 2,
+      "explanation": "The terminator is the moving line between light and darkness.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "moon_phases.terminator.v9",
+      "conceptId": "terminator",
+      "prompt": "Final mastery question: What is the boundary between lunar day and night called?",
       "options": [
         "Crater rim",
         "Terminator",
