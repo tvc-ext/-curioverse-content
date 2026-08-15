@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "packVersion": 1,
+  "packVersion": 2,
   "topicId": "human_evolution",
-  "questionCount": 50,
+  "questionCount": 100,
   "questions": [
     {
       "id": "human_evolution.primate.v0",
@@ -890,6 +890,906 @@
       "id": "human_evolution.culture.v4",
       "conceptId": "culture",
       "prompt": "Final clue — Besides biology, what strongly shaped humans?",
+      "options": [
+        "Only climate",
+        "Culture and cooperation",
+        "No social behaviour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Learning, language, tools and cooperation shaped human lives.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.primate.v5",
+      "conceptId": "primate",
+      "prompt": "Reason it out: Humans belong to which mammal group?",
+      "options": [
+        "Marsupials",
+        "Primates",
+        "Cetaceans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Humans are primates.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.primate.v6",
+      "conceptId": "primate",
+      "prompt": "Quick recall challenge: Humans belong to which mammal group?",
+      "options": [
+        "Cetaceans",
+        "Marsupials",
+        "Primates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humans are primates.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.primate.v7",
+      "conceptId": "primate",
+      "prompt": "Apply the clue: Humans belong to which mammal group?",
+      "options": [
+        "Primates",
+        "Cetaceans",
+        "Marsupials"
+      ],
+      "correctIndex": 0,
+      "explanation": "Humans are primates.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.primate.v8",
+      "conceptId": "primate",
+      "prompt": "Expert checkpoint: Humans belong to which mammal group?",
+      "options": [
+        "Marsupials",
+        "Cetaceans",
+        "Primates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humans are primates.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.primate.v9",
+      "conceptId": "primate",
+      "prompt": "Final mastery question: Humans belong to which mammal group?",
+      "options": [
+        "Cetaceans",
+        "Primates",
+        "Marsupials"
+      ],
+      "correctIndex": 1,
+      "explanation": "Humans are primates.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.ancestor.v5",
+      "conceptId": "ancestor",
+      "prompt": "Reason it out: Did humans evolve from chimpanzees living today?",
+      "options": [
+        "Yes, directly",
+        "No, we share ancient ancestors",
+        "Humans came from dolphins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Humans and chimpanzees are separate branches with shared ancestors.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.ancestor.v6",
+      "conceptId": "ancestor",
+      "prompt": "Quick recall challenge: Did humans evolve from chimpanzees living today?",
+      "options": [
+        "Humans came from dolphins",
+        "Yes, directly",
+        "No, we share ancient ancestors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humans and chimpanzees are separate branches with shared ancestors.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.ancestor.v7",
+      "conceptId": "ancestor",
+      "prompt": "Apply the clue: Did humans evolve from chimpanzees living today?",
+      "options": [
+        "No, we share ancient ancestors",
+        "Humans came from dolphins",
+        "Yes, directly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Humans and chimpanzees are separate branches with shared ancestors.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.ancestor.v8",
+      "conceptId": "ancestor",
+      "prompt": "Expert checkpoint: Did humans evolve from chimpanzees living today?",
+      "options": [
+        "Yes, directly",
+        "Humans came from dolphins",
+        "No, we share ancient ancestors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humans and chimpanzees are separate branches with shared ancestors.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.ancestor.v9",
+      "conceptId": "ancestor",
+      "prompt": "Final mastery question: Did humans evolve from chimpanzees living today?",
+      "options": [
+        "Humans came from dolphins",
+        "No, we share ancient ancestors",
+        "Yes, directly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Humans and chimpanzees are separate branches with shared ancestors.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.africa.v5",
+      "conceptId": "africa",
+      "prompt": "Reason it out: Where did Homo sapiens emerge?",
+      "options": [
+        "Antarctica",
+        "Africa",
+        "The Moon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fossil and genetic evidence points to Africa.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.africa.v6",
+      "conceptId": "africa",
+      "prompt": "Quick recall challenge: Where did Homo sapiens emerge?",
+      "options": [
+        "The Moon",
+        "Antarctica",
+        "Africa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fossil and genetic evidence points to Africa.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.africa.v7",
+      "conceptId": "africa",
+      "prompt": "Apply the clue: Where did Homo sapiens emerge?",
+      "options": [
+        "Africa",
+        "The Moon",
+        "Antarctica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fossil and genetic evidence points to Africa.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.africa.v8",
+      "conceptId": "africa",
+      "prompt": "Expert checkpoint: Where did Homo sapiens emerge?",
+      "options": [
+        "Antarctica",
+        "The Moon",
+        "Africa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fossil and genetic evidence points to Africa.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.africa.v9",
+      "conceptId": "africa",
+      "prompt": "Final mastery question: Where did Homo sapiens emerge?",
+      "options": [
+        "The Moon",
+        "Africa",
+        "Antarctica"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fossil and genetic evidence points to Africa.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.age.v5",
+      "conceptId": "age",
+      "prompt": "Reason it out: About how old is Homo sapiens?",
+      "options": [
+        "3,000 years",
+        "Roughly 300,000 years",
+        "30 million years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early Homo sapiens fossils date to roughly 300,000 years ago.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.age.v6",
+      "conceptId": "age",
+      "prompt": "Quick recall challenge: About how old is Homo sapiens?",
+      "options": [
+        "30 million years",
+        "3,000 years",
+        "Roughly 300,000 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Early Homo sapiens fossils date to roughly 300,000 years ago.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.age.v7",
+      "conceptId": "age",
+      "prompt": "Apply the clue: About how old is Homo sapiens?",
+      "options": [
+        "Roughly 300,000 years",
+        "30 million years",
+        "3,000 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Early Homo sapiens fossils date to roughly 300,000 years ago.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.age.v8",
+      "conceptId": "age",
+      "prompt": "Expert checkpoint: About how old is Homo sapiens?",
+      "options": [
+        "3,000 years",
+        "30 million years",
+        "Roughly 300,000 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Early Homo sapiens fossils date to roughly 300,000 years ago.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.age.v9",
+      "conceptId": "age",
+      "prompt": "Final mastery question: About how old is Homo sapiens?",
+      "options": [
+        "30 million years",
+        "Roughly 300,000 years",
+        "3,000 years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early Homo sapiens fossils date to roughly 300,000 years ago.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.evidence.v5",
+      "conceptId": "evidence",
+      "prompt": "Reason it out: Which evidence helps study human evolution?",
+      "options": [
+        "Only legends",
+        "Fossils, archaeology and DNA",
+        "Weather reports alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Independent evidence types reveal different parts of the story.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.evidence.v6",
+      "conceptId": "evidence",
+      "prompt": "Quick recall challenge: Which evidence helps study human evolution?",
+      "options": [
+        "Weather reports alone",
+        "Only legends",
+        "Fossils, archaeology and DNA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Independent evidence types reveal different parts of the story.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.evidence.v7",
+      "conceptId": "evidence",
+      "prompt": "Apply the clue: Which evidence helps study human evolution?",
+      "options": [
+        "Fossils, archaeology and DNA",
+        "Weather reports alone",
+        "Only legends"
+      ],
+      "correctIndex": 0,
+      "explanation": "Independent evidence types reveal different parts of the story.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.evidence.v8",
+      "conceptId": "evidence",
+      "prompt": "Expert checkpoint: Which evidence helps study human evolution?",
+      "options": [
+        "Only legends",
+        "Weather reports alone",
+        "Fossils, archaeology and DNA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Independent evidence types reveal different parts of the story.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.evidence.v9",
+      "conceptId": "evidence",
+      "prompt": "Final mastery question: Which evidence helps study human evolution?",
+      "options": [
+        "Weather reports alone",
+        "Fossils, archaeology and DNA",
+        "Only legends"
+      ],
+      "correctIndex": 1,
+      "explanation": "Independent evidence types reveal different parts of the story.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.tree.v5",
+      "conceptId": "tree",
+      "prompt": "Reason it out: What shape best represents evolution?",
+      "options": [
+        "Straight ladder",
+        "Branching tree",
+        "Perfect circle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Populations split and form branching relationships.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.tree.v6",
+      "conceptId": "tree",
+      "prompt": "Quick recall challenge: What shape best represents evolution?",
+      "options": [
+        "Perfect circle",
+        "Straight ladder",
+        "Branching tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "Populations split and form branching relationships.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.tree.v7",
+      "conceptId": "tree",
+      "prompt": "Apply the clue: What shape best represents evolution?",
+      "options": [
+        "Branching tree",
+        "Perfect circle",
+        "Straight ladder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Populations split and form branching relationships.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.tree.v8",
+      "conceptId": "tree",
+      "prompt": "Expert checkpoint: What shape best represents evolution?",
+      "options": [
+        "Straight ladder",
+        "Perfect circle",
+        "Branching tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "Populations split and form branching relationships.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.tree.v9",
+      "conceptId": "tree",
+      "prompt": "Final mastery question: What shape best represents evolution?",
+      "options": [
+        "Perfect circle",
+        "Branching tree",
+        "Straight ladder"
+      ],
+      "correctIndex": 1,
+      "explanation": "Populations split and form branching relationships.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.bipedal.v5",
+      "conceptId": "bipedal",
+      "prompt": "Reason it out: What does bipedal mean?",
+      "options": [
+        "Living underwater",
+        "Walking mainly on two legs",
+        "Having wings"
+      ],
+      "correctIndex": 1,
+      "explanation": "Habitual bipedalism is an important hominin trait.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.bipedal.v6",
+      "conceptId": "bipedal",
+      "prompt": "Quick recall challenge: What does bipedal mean?",
+      "options": [
+        "Having wings",
+        "Living underwater",
+        "Walking mainly on two legs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Habitual bipedalism is an important hominin trait.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.bipedal.v7",
+      "conceptId": "bipedal",
+      "prompt": "Apply the clue: What does bipedal mean?",
+      "options": [
+        "Walking mainly on two legs",
+        "Having wings",
+        "Living underwater"
+      ],
+      "correctIndex": 0,
+      "explanation": "Habitual bipedalism is an important hominin trait.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.bipedal.v8",
+      "conceptId": "bipedal",
+      "prompt": "Expert checkpoint: What does bipedal mean?",
+      "options": [
+        "Living underwater",
+        "Having wings",
+        "Walking mainly on two legs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Habitual bipedalism is an important hominin trait.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.bipedal.v9",
+      "conceptId": "bipedal",
+      "prompt": "Final mastery question: What does bipedal mean?",
+      "options": [
+        "Having wings",
+        "Walking mainly on two legs",
+        "Living underwater"
+      ],
+      "correctIndex": 1,
+      "explanation": "Habitual bipedalism is an important hominin trait.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.neanderthal.v5",
+      "conceptId": "neanderthal",
+      "prompt": "Reason it out: Did Homo sapiens and Neanderthals ever interbreed?",
+      "options": [
+        "Never",
+        "Yes",
+        "Only in fiction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genomes show interbreeding between populations.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.neanderthal.v6",
+      "conceptId": "neanderthal",
+      "prompt": "Quick recall challenge: Did Homo sapiens and Neanderthals ever interbreed?",
+      "options": [
+        "Only in fiction",
+        "Never",
+        "Yes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genomes show interbreeding between populations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.neanderthal.v7",
+      "conceptId": "neanderthal",
+      "prompt": "Apply the clue: Did Homo sapiens and Neanderthals ever interbreed?",
+      "options": [
+        "Yes",
+        "Only in fiction",
+        "Never"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genomes show interbreeding between populations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.neanderthal.v8",
+      "conceptId": "neanderthal",
+      "prompt": "Expert checkpoint: Did Homo sapiens and Neanderthals ever interbreed?",
+      "options": [
+        "Never",
+        "Only in fiction",
+        "Yes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genomes show interbreeding between populations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.neanderthal.v9",
+      "conceptId": "neanderthal",
+      "prompt": "Final mastery question: Did Homo sapiens and Neanderthals ever interbreed?",
+      "options": [
+        "Only in fiction",
+        "Yes",
+        "Never"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genomes show interbreeding between populations.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.variation.v5",
+      "conceptId": "variation",
+      "prompt": "Reason it out: What does natural selection act on?",
+      "options": [
+        "Wishful thinking",
+        "Inherited variation",
+        "Traits gained by exercise alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heritable differences can affect survival and reproduction.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.variation.v6",
+      "conceptId": "variation",
+      "prompt": "Quick recall challenge: What does natural selection act on?",
+      "options": [
+        "Traits gained by exercise alone",
+        "Wishful thinking",
+        "Inherited variation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heritable differences can affect survival and reproduction.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.variation.v7",
+      "conceptId": "variation",
+      "prompt": "Apply the clue: What does natural selection act on?",
+      "options": [
+        "Inherited variation",
+        "Traits gained by exercise alone",
+        "Wishful thinking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heritable differences can affect survival and reproduction.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.variation.v8",
+      "conceptId": "variation",
+      "prompt": "Expert checkpoint: What does natural selection act on?",
+      "options": [
+        "Wishful thinking",
+        "Traits gained by exercise alone",
+        "Inherited variation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heritable differences can affect survival and reproduction.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.variation.v9",
+      "conceptId": "variation",
+      "prompt": "Final mastery question: What does natural selection act on?",
+      "options": [
+        "Traits gained by exercise alone",
+        "Inherited variation",
+        "Wishful thinking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heritable differences can affect survival and reproduction.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.culture.v5",
+      "conceptId": "culture",
+      "prompt": "Reason it out: Besides biology, what strongly shaped humans?",
+      "options": [
+        "No social behaviour",
+        "Culture and cooperation",
+        "Only climate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Learning, language, tools and cooperation shaped human lives.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.culture.v6",
+      "conceptId": "culture",
+      "prompt": "Quick recall challenge: Besides biology, what strongly shaped humans?",
+      "options": [
+        "Only climate",
+        "No social behaviour",
+        "Culture and cooperation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Learning, language, tools and cooperation shaped human lives.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.culture.v7",
+      "conceptId": "culture",
+      "prompt": "Apply the clue: Besides biology, what strongly shaped humans?",
+      "options": [
+        "Culture and cooperation",
+        "Only climate",
+        "No social behaviour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Learning, language, tools and cooperation shaped human lives.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.culture.v8",
+      "conceptId": "culture",
+      "prompt": "Expert checkpoint: Besides biology, what strongly shaped humans?",
+      "options": [
+        "No social behaviour",
+        "Only climate",
+        "Culture and cooperation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Learning, language, tools and cooperation shaped human lives.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "human_evolution.culture.v9",
+      "conceptId": "culture",
+      "prompt": "Final mastery question: Besides biology, what strongly shaped humans?",
       "options": [
         "Only climate",
         "Culture and cooperation",
