@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "packVersion": 1,
+  "gameCount": 4,
+  "games": [
+    {
+      "id": "pattern_sprint",
+      "title": "Pattern Sprint",
+      "mechanic": "sequence",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "missing_tile",
+      "title": "Missing Tile",
+      "mechanic": "grid",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "odd_one_out",
+      "title": "Odd One Out",
+      "mechanic": "classification",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "code_breaker",
+      "title": "Code Breaker",
+      "mechanic": "code",
+      "ageBands": [
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    }
+  ]
+}
