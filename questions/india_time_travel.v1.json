@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "packVersion": 1,
+  "topicId": "india_time_travel",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "india_time_travel.indus.v0",
+      "conceptId": "indus",
+      "prompt": "Which civilisation built cities such as Harappa and Mohenjo-daro?",
+      "options": [
+        "Indus Valley Civilisation",
+        "Roman Empire",
+        "Maya civilisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "These were major urban centres of the Indus civilisation.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.indus.v1",
+      "conceptId": "indus",
+      "prompt": "Think carefully: Which civilisation built cities such as Harappa and Mohenjo-daro?",
+      "options": [
+        "Roman Empire",
+        "Indus Valley Civilisation",
+        "Maya civilisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "These were major urban centres of the Indus civilisation.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.indus.v2",
+      "conceptId": "indus",
+      "prompt": "Level challenge — Which civilisation built cities such as Harappa and Mohenjo-daro?",
+      "options": [
+        "Roman Empire",
+        "Maya civilisation",
+        "Indus Valley Civilisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "These were major urban centres of the Indus civilisation.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.indus.v3",
+      "conceptId": "indus",
+      "prompt": "Choose the best answer: Which civilisation built cities such as Harappa and Mohenjo-daro?",
+      "options": [
+        "Indus Valley Civilisation",
+        "Maya civilisation",
+        "Roman Empire"
+      ],
+      "correctIndex": 0,
+      "explanation": "These were major urban centres of the Indus civilisation.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.indus.v4",
+      "conceptId": "indus",
+      "prompt": "Final clue — Which civilisation built cities such as Harappa and Mohenjo-daro?",
+      "options": [
+        "Maya civilisation",
+        "Indus Valley Civilisation",
+        "Roman Empire"
+      ],
+      "correctIndex": 1,
+      "explanation": "These were major urban centres of the Indus civilisation.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ashoka.v0",
+      "conceptId": "ashoka",
+      "prompt": "Which emperor issued messages on rocks and pillars?",
+      "options": [
+        "Ashoka",
+        "Akbar only",
+        "Shivaji Maharaj"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ashokan edicts communicated policies and ethical ideas.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ashoka.v1",
+      "conceptId": "ashoka",
+      "prompt": "Think carefully: Which emperor issued messages on rocks and pillars?",
+      "options": [
+        "Akbar only",
+        "Ashoka",
+        "Shivaji Maharaj"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ashokan edicts communicated policies and ethical ideas.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ashoka.v2",
+      "conceptId": "ashoka",
+      "prompt": "Level challenge — Which emperor issued messages on rocks and pillars?",
+      "options": [
+        "Akbar only",
+        "Shivaji Maharaj",
+        "Ashoka"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ashokan edicts communicated policies and ethical ideas.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ashoka.v3",
+      "conceptId": "ashoka",
+      "prompt": "Choose the best answer: Which emperor issued messages on rocks and pillars?",
+      "options": [
+        "Ashoka",
+        "Shivaji Maharaj",
+        "Akbar only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ashokan edicts communicated policies and ethical ideas.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ashoka.v4",
+      "conceptId": "ashoka",
+      "prompt": "Final clue — Which emperor issued messages on rocks and pillars?",
+      "options": [
+        "Shivaji Maharaj",
+        "Ashoka",
+        "Akbar only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ashokan edicts communicated policies and ethical ideas.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.constitution.v0",
+      "conceptId": "constitution",
+      "prompt": "When did India’s Constitution come into effect?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "2 October 1869"
+      ],
+      "correctIndex": 0,
+      "explanation": "India celebrates Republic Day on 26 January.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.constitution.v1",
+      "conceptId": "constitution",
+      "prompt": "Think carefully: When did India’s Constitution come into effect?",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "2 October 1869"
+      ],
+      "correctIndex": 1,
+      "explanation": "India celebrates Republic Day on 26 January.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.constitution.v2",
+      "conceptId": "constitution",
+      "prompt": "Level challenge — When did India’s Constitution come into effect?",
+      "options": [
+        "15 August 1947",
+        "2 October 1869",
+        "26 January 1950"
+      ],
+      "correctIndex": 2,
+      "explanation": "India celebrates Republic Day on 26 January.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.constitution.v3",
+      "conceptId": "constitution",
+      "prompt": "Choose the best answer: When did India’s Constitution come into effect?",
+      "options": [
+        "26 January 1950",
+        "2 October 1869",
+        "15 August 1947"
+      ],
+      "correctIndex": 0,
+      "explanation": "India celebrates Republic Day on 26 January.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.constitution.v4",
+      "conceptId": "constitution",
+      "prompt": "Final clue — When did India’s Constitution come into effect?",
+      "options": [
+        "2 October 1869",
+        "26 January 1950",
+        "15 August 1947"
+      ],
+      "correctIndex": 1,
+      "explanation": "India celebrates Republic Day on 26 January.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.independence.v0",
+      "conceptId": "independence",
+      "prompt": "When did India become independent?",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "1 January 1900"
+      ],
+      "correctIndex": 0,
+      "explanation": "India gained independence from British rule in 1947.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.independence.v1",
+      "conceptId": "independence",
+      "prompt": "Think carefully: When did India become independent?",
+      "options": [
+        "26 January 1950",
+        "15 August 1947",
+        "1 January 1900"
+      ],
+      "correctIndex": 1,
+      "explanation": "India gained independence from British rule in 1947.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.independence.v2",
+      "conceptId": "independence",
+      "prompt": "Level challenge — When did India become independent?",
+      "options": [
+        "26 January 1950",
+        "1 January 1900",
+        "15 August 1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "India gained independence from British rule in 1947.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.independence.v3",
+      "conceptId": "independence",
+      "prompt": "Choose the best answer: When did India become independent?",
+      "options": [
+        "15 August 1947",
+        "1 January 1900",
+        "26 January 1950"
+      ],
+      "correctIndex": 0,
+      "explanation": "India gained independence from British rule in 1947.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.independence.v4",
+      "conceptId": "independence",
+      "prompt": "Final clue — When did India become independent?",
+      "options": [
+        "1 January 1900",
+        "15 August 1947",
+        "26 January 1950"
+      ],
+      "correctIndex": 1,
+      "explanation": "India gained independence from British rule in 1947.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.drafting.v0",
+      "conceptId": "drafting",
+      "prompt": "Who chaired the Constitution’s Drafting Committee?",
+      "options": [
+        "B. R. Ambedkar",
+        "C. V. Raman",
+        "Homi Bhabha"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dr Ambedkar chaired the Drafting Committee.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.drafting.v1",
+      "conceptId": "drafting",
+      "prompt": "Think carefully: Who chaired the Constitution’s Drafting Committee?",
+      "options": [
+        "C. V. Raman",
+        "B. R. Ambedkar",
+        "Homi Bhabha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dr Ambedkar chaired the Drafting Committee.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.drafting.v2",
+      "conceptId": "drafting",
+      "prompt": "Level challenge — Who chaired the Constitution’s Drafting Committee?",
+      "options": [
+        "C. V. Raman",
+        "Homi Bhabha",
+        "B. R. Ambedkar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dr Ambedkar chaired the Drafting Committee.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.drafting.v3",
+      "conceptId": "drafting",
+      "prompt": "Choose the best answer: Who chaired the Constitution’s Drafting Committee?",
+      "options": [
+        "B. R. Ambedkar",
+        "Homi Bhabha",
+        "C. V. Raman"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dr Ambedkar chaired the Drafting Committee.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.drafting.v4",
+      "conceptId": "drafting",
+      "prompt": "Final clue — Who chaired the Constitution’s Drafting Committee?",
+      "options": [
+        "Homi Bhabha",
+        "B. R. Ambedkar",
+        "C. V. Raman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dr Ambedkar chaired the Drafting Committee.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.dandi.v0",
+      "conceptId": "dandi",
+      "prompt": "Which movement included the Dandi Salt March?",
+      "options": [
+        "Civil Disobedience Movement",
+        "Green Revolution",
+        "Space programme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gandhi’s 1930 march challenged the salt laws.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.dandi.v1",
+      "conceptId": "dandi",
+      "prompt": "Think carefully: Which movement included the Dandi Salt March?",
+      "options": [
+        "Green Revolution",
+        "Civil Disobedience Movement",
+        "Space programme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gandhi’s 1930 march challenged the salt laws.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.dandi.v2",
+      "conceptId": "dandi",
+      "prompt": "Level challenge — Which movement included the Dandi Salt March?",
+      "options": [
+        "Green Revolution",
+        "Space programme",
+        "Civil Disobedience Movement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gandhi’s 1930 march challenged the salt laws.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.dandi.v3",
+      "conceptId": "dandi",
+      "prompt": "Choose the best answer: Which movement included the Dandi Salt March?",
+      "options": [
+        "Civil Disobedience Movement",
+        "Space programme",
+        "Green Revolution"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gandhi’s 1930 march challenged the salt laws.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.dandi.v4",
+      "conceptId": "dandi",
+      "prompt": "Final clue — Which movement included the Dandi Salt March?",
+      "options": [
+        "Space programme",
+        "Civil Disobedience Movement",
+        "Green Revolution"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gandhi’s 1930 march challenged the salt laws.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.maurya.v0",
+      "conceptId": "maurya",
+      "prompt": "Which dynasty did Ashoka belong to?",
+      "options": [
+        "Maurya",
+        "Chola",
+        "Gupta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ashoka was a Mauryan emperor.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.maurya.v1",
+      "conceptId": "maurya",
+      "prompt": "Think carefully: Which dynasty did Ashoka belong to?",
+      "options": [
+        "Chola",
+        "Maurya",
+        "Gupta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ashoka was a Mauryan emperor.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.maurya.v2",
+      "conceptId": "maurya",
+      "prompt": "Level challenge — Which dynasty did Ashoka belong to?",
+      "options": [
+        "Chola",
+        "Gupta",
+        "Maurya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ashoka was a Mauryan emperor.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.maurya.v3",
+      "conceptId": "maurya",
+      "prompt": "Choose the best answer: Which dynasty did Ashoka belong to?",
+      "options": [
+        "Maurya",
+        "Gupta",
+        "Chola"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ashoka was a Mauryan emperor.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.maurya.v4",
+      "conceptId": "maurya",
+      "prompt": "Final clue — Which dynasty did Ashoka belong to?",
+      "options": [
+        "Gupta",
+        "Maurya",
+        "Chola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ashoka was a Mauryan emperor.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ajanta.v0",
+      "conceptId": "ajanta",
+      "prompt": "What are the Ajanta Caves especially known for?",
+      "options": [
+        "Buddhist art and architecture",
+        "Modern skyscrapers",
+        "Space rockets"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ajanta preserves rock-cut monuments, paintings and sculpture.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ajanta.v1",
+      "conceptId": "ajanta",
+      "prompt": "Think carefully: What are the Ajanta Caves especially known for?",
+      "options": [
+        "Modern skyscrapers",
+        "Buddhist art and architecture",
+        "Space rockets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ajanta preserves rock-cut monuments, paintings and sculpture.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ajanta.v2",
+      "conceptId": "ajanta",
+      "prompt": "Level challenge — What are the Ajanta Caves especially known for?",
+      "options": [
+        "Modern skyscrapers",
+        "Space rockets",
+        "Buddhist art and architecture"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ajanta preserves rock-cut monuments, paintings and sculpture.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ajanta.v3",
+      "conceptId": "ajanta",
+      "prompt": "Choose the best answer: What are the Ajanta Caves especially known for?",
+      "options": [
+        "Buddhist art and architecture",
+        "Space rockets",
+        "Modern skyscrapers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ajanta preserves rock-cut monuments, paintings and sculpture.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.ajanta.v4",
+      "conceptId": "ajanta",
+      "prompt": "Final clue — What are the Ajanta Caves especially known for?",
+      "options": [
+        "Space rockets",
+        "Buddhist art and architecture",
+        "Modern skyscrapers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ajanta preserves rock-cut monuments, paintings and sculpture.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.sources.v0",
+      "conceptId": "sources",
+      "prompt": "Which is a primary source for studying an ancient ruler?",
+      "options": [
+        "An inscription from the ruler’s time",
+        "A new fictional film",
+        "An unsourced rumour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contemporary inscriptions provide direct historical evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.sources.v1",
+      "conceptId": "sources",
+      "prompt": "Think carefully: Which is a primary source for studying an ancient ruler?",
+      "options": [
+        "A new fictional film",
+        "An inscription from the ruler’s time",
+        "An unsourced rumour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contemporary inscriptions provide direct historical evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.sources.v2",
+      "conceptId": "sources",
+      "prompt": "Level challenge — Which is a primary source for studying an ancient ruler?",
+      "options": [
+        "A new fictional film",
+        "An unsourced rumour",
+        "An inscription from the ruler’s time"
+      ],
+      "correctIndex": 2,
+      "explanation": "Contemporary inscriptions provide direct historical evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.sources.v3",
+      "conceptId": "sources",
+      "prompt": "Choose the best answer: Which is a primary source for studying an ancient ruler?",
+      "options": [
+        "An inscription from the ruler’s time",
+        "An unsourced rumour",
+        "A new fictional film"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contemporary inscriptions provide direct historical evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.sources.v4",
+      "conceptId": "sources",
+      "prompt": "Final clue — Which is a primary source for studying an ancient ruler?",
+      "options": [
+        "An unsourced rumour",
+        "An inscription from the ruler’s time",
+        "A new fictional film"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contemporary inscriptions provide direct historical evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.periods.v0",
+      "conceptId": "periods",
+      "prompt": "Why can historical period labels be imperfect?",
+      "options": [
+        "Real change is gradual and regions differ",
+        "Dates never matter",
+        "Evidence is unnecessary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Periods are useful models, but history does not change everywhere at once.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.periods.v1",
+      "conceptId": "periods",
+      "prompt": "Think carefully: Why can historical period labels be imperfect?",
+      "options": [
+        "Dates never matter",
+        "Real change is gradual and regions differ",
+        "Evidence is unnecessary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Periods are useful models, but history does not change everywhere at once.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.periods.v2",
+      "conceptId": "periods",
+      "prompt": "Level challenge — Why can historical period labels be imperfect?",
+      "options": [
+        "Dates never matter",
+        "Evidence is unnecessary",
+        "Real change is gradual and regions differ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Periods are useful models, but history does not change everywhere at once.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.periods.v3",
+      "conceptId": "periods",
+      "prompt": "Choose the best answer: Why can historical period labels be imperfect?",
+      "options": [
+        "Real change is gradual and regions differ",
+        "Evidence is unnecessary",
+        "Dates never matter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Periods are useful models, but history does not change everywhere at once.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "india_time_travel.periods.v4",
+      "conceptId": "periods",
+      "prompt": "Final clue — Why can historical period labels be imperfect?",
+      "options": [
+        "Evidence is unnecessary",
+        "Real change is gradual and regions differ",
+        "Dates never matter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Periods are useful models, but history does not change everywhere at once.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    }
+  ]
+}
