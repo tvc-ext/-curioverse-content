@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "publishedAt": "2026-08-15T12:30:00Z",
+  "minimumAppVersion": "0.1.0",
+  "questionCount": 450,
+  "gameCount": 4,
+  "packs": [
+    {
+      "id": "moon_phases",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/moon_phases.v1.json",
+      "count": 50
+    },
+    {
+      "id": "dinosaur_detective",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/dinosaur_detective.v1.json",
+      "count": 50
+    },
+    {
+      "id": "ai_pattern_lab",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/ai_pattern_lab.v1.json",
+      "count": 50
+    },
+    {
+      "id": "ocean_networks",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/ocean_networks.v1.json",
+      "count": 50
+    },
+    {
+      "id": "isro_mission_lab",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/isro_mission_lab.v1.json",
+      "count": 50
+    },
+    {
+      "id": "india_time_travel",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/india_time_travel.v1.json",
+      "count": 50
+    },
+    {
+      "id": "seven_wonders",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/seven_wonders.v1.json",
+      "count": 50
+    },
+    {
+      "id": "human_evolution",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/human_evolution.v1.json",
+      "count": 50
+    },
+    {
+      "id": "animal_detective",
+      "type": "questions",
+      "version": 1,
+      "path": "questions/animal_detective.v1.json",
+      "count": 50
+    },
+    {
+      "id": "brain_arcade",
+      "type": "games",
+      "version": 1,
+      "path": "games/catalog.v1.json",
+      "count": 4
+    }
+  ]
+}
