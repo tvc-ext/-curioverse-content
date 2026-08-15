@@ -3,7 +3,7 @@ from pathlib import Path
 
 manifest = json.loads(Path("manifest.json").read_text())
 assert manifest["schemaVersion"] == 1
-assert manifest["questionCount"] >= 450
+assert manifest["questionCount"] >= 900
 ids = set()
 total = 0
 for entry in manifest["packs"]:
@@ -13,7 +13,7 @@ for entry in manifest["packs"]:
     if entry["type"] != "questions":
         continue
     questions = data["questions"]
-    assert len(questions) >= 50, path
+    assert len(questions) >= 100, path
     total += len(questions)
     prompts = set()
     levels = set()
