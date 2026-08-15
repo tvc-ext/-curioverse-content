@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "packVersion": 1,
+  "topicId": "animal_detective",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "animal_detective.feathers.v0",
+      "conceptId": "feathers",
+      "prompt": "Which covering identifies all living birds?",
+      "options": [
+        "Feathers",
+        "Fur",
+        "Wet skin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feathers are unique to birds among living animals.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.feathers.v1",
+      "conceptId": "feathers",
+      "prompt": "Think carefully: Which covering identifies all living birds?",
+      "options": [
+        "Fur",
+        "Feathers",
+        "Wet skin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feathers are unique to birds among living animals.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.feathers.v2",
+      "conceptId": "feathers",
+      "prompt": "Level challenge — Which covering identifies all living birds?",
+      "options": [
+        "Fur",
+        "Wet skin",
+        "Feathers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Feathers are unique to birds among living animals.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.feathers.v3",
+      "conceptId": "feathers",
+      "prompt": "Choose the best answer: Which covering identifies all living birds?",
+      "options": [
+        "Feathers",
+        "Wet skin",
+        "Fur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feathers are unique to birds among living animals.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.feathers.v4",
+      "conceptId": "feathers",
+      "prompt": "Final clue — Which covering identifies all living birds?",
+      "options": [
+        "Wet skin",
+        "Feathers",
+        "Fur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feathers are unique to birds among living animals.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.tiger.v0",
+      "conceptId": "tiger",
+      "prompt": "Which animal has dark stripes on orange or pale fur?",
+      "options": [
+        "Tiger",
+        "Dolphin",
+        "Peafowl"
+      ],
+      "correctIndex": 0,
+      "explanation": "Individual tigers have distinctive stripe patterns.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.tiger.v1",
+      "conceptId": "tiger",
+      "prompt": "Think carefully: Which animal has dark stripes on orange or pale fur?",
+      "options": [
+        "Dolphin",
+        "Tiger",
+        "Peafowl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Individual tigers have distinctive stripe patterns.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.tiger.v2",
+      "conceptId": "tiger",
+      "prompt": "Level challenge — Which animal has dark stripes on orange or pale fur?",
+      "options": [
+        "Dolphin",
+        "Peafowl",
+        "Tiger"
+      ],
+      "correctIndex": 2,
+      "explanation": "Individual tigers have distinctive stripe patterns.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.tiger.v3",
+      "conceptId": "tiger",
+      "prompt": "Choose the best answer: Which animal has dark stripes on orange or pale fur?",
+      "options": [
+        "Tiger",
+        "Peafowl",
+        "Dolphin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Individual tigers have distinctive stripe patterns.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.tiger.v4",
+      "conceptId": "tiger",
+      "prompt": "Final clue — Which animal has dark stripes on orange or pale fur?",
+      "options": [
+        "Peafowl",
+        "Tiger",
+        "Dolphin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Individual tigers have distinctive stripe patterns.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.mammal.v0",
+      "conceptId": "mammal",
+      "prompt": "What do female mammals produce for their young?",
+      "options": [
+        "Milk",
+        "Feathers",
+        "Gills"
+      ],
+      "correctIndex": 0,
+      "explanation": "Milk production is a defining mammalian trait.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.mammal.v1",
+      "conceptId": "mammal",
+      "prompt": "Think carefully: What do female mammals produce for their young?",
+      "options": [
+        "Feathers",
+        "Milk",
+        "Gills"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk production is a defining mammalian trait.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.mammal.v2",
+      "conceptId": "mammal",
+      "prompt": "Level challenge — What do female mammals produce for their young?",
+      "options": [
+        "Feathers",
+        "Gills",
+        "Milk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Milk production is a defining mammalian trait.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.mammal.v3",
+      "conceptId": "mammal",
+      "prompt": "Choose the best answer: What do female mammals produce for their young?",
+      "options": [
+        "Milk",
+        "Gills",
+        "Feathers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Milk production is a defining mammalian trait.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.mammal.v4",
+      "conceptId": "mammal",
+      "prompt": "Final clue — What do female mammals produce for their young?",
+      "options": [
+        "Gills",
+        "Milk",
+        "Feathers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk production is a defining mammalian trait.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.amphibian.v0",
+      "conceptId": "amphibian",
+      "prompt": "Which animal group often has moist skin and aquatic larvae?",
+      "options": [
+        "Amphibians",
+        "Birds",
+        "Mammals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many amphibians change from aquatic larvae to adults.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.amphibian.v1",
+      "conceptId": "amphibian",
+      "prompt": "Think carefully: Which animal group often has moist skin and aquatic larvae?",
+      "options": [
+        "Birds",
+        "Amphibians",
+        "Mammals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many amphibians change from aquatic larvae to adults.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.amphibian.v2",
+      "conceptId": "amphibian",
+      "prompt": "Level challenge — Which animal group often has moist skin and aquatic larvae?",
+      "options": [
+        "Birds",
+        "Mammals",
+        "Amphibians"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many amphibians change from aquatic larvae to adults.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.amphibian.v3",
+      "conceptId": "amphibian",
+      "prompt": "Choose the best answer: Which animal group often has moist skin and aquatic larvae?",
+      "options": [
+        "Amphibians",
+        "Mammals",
+        "Birds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many amphibians change from aquatic larvae to adults.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.amphibian.v4",
+      "conceptId": "amphibian",
+      "prompt": "Final clue — Which animal group often has moist skin and aquatic larvae?",
+      "options": [
+        "Mammals",
+        "Amphibians",
+        "Birds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many amphibians change from aquatic larvae to adults.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.reptile.v0",
+      "conceptId": "reptile",
+      "prompt": "Which feature is typical of reptiles?",
+      "options": [
+        "Scaly skin",
+        "Feathers on every species",
+        "Milk glands"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reptiles have keratinised scales or scutes.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.reptile.v1",
+      "conceptId": "reptile",
+      "prompt": "Think carefully: Which feature is typical of reptiles?",
+      "options": [
+        "Feathers on every species",
+        "Scaly skin",
+        "Milk glands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reptiles have keratinised scales or scutes.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.reptile.v2",
+      "conceptId": "reptile",
+      "prompt": "Level challenge — Which feature is typical of reptiles?",
+      "options": [
+        "Feathers on every species",
+        "Milk glands",
+        "Scaly skin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reptiles have keratinised scales or scutes.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.reptile.v3",
+      "conceptId": "reptile",
+      "prompt": "Choose the best answer: Which feature is typical of reptiles?",
+      "options": [
+        "Scaly skin",
+        "Milk glands",
+        "Feathers on every species"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reptiles have keratinised scales or scutes.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.reptile.v4",
+      "conceptId": "reptile",
+      "prompt": "Final clue — Which feature is typical of reptiles?",
+      "options": [
+        "Milk glands",
+        "Scaly skin",
+        "Feathers on every species"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reptiles have keratinised scales or scutes.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.insect.v0",
+      "conceptId": "insect",
+      "prompt": "How many legs does an adult insect have?",
+      "options": [
+        "Six",
+        "Eight",
+        "Ten"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adult insects have three pairs of legs.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.insect.v1",
+      "conceptId": "insect",
+      "prompt": "Think carefully: How many legs does an adult insect have?",
+      "options": [
+        "Eight",
+        "Six",
+        "Ten"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adult insects have three pairs of legs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.insect.v2",
+      "conceptId": "insect",
+      "prompt": "Level challenge — How many legs does an adult insect have?",
+      "options": [
+        "Eight",
+        "Ten",
+        "Six"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adult insects have three pairs of legs.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.insect.v3",
+      "conceptId": "insect",
+      "prompt": "Choose the best answer: How many legs does an adult insect have?",
+      "options": [
+        "Six",
+        "Ten",
+        "Eight"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adult insects have three pairs of legs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.insect.v4",
+      "conceptId": "insect",
+      "prompt": "Final clue — How many legs does an adult insect have?",
+      "options": [
+        "Ten",
+        "Six",
+        "Eight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adult insects have three pairs of legs.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.arachnid.v0",
+      "conceptId": "arachnid",
+      "prompt": "How many legs does a typical adult spider have?",
+      "options": [
+        "Eight",
+        "Six",
+        "Four"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spiders are arachnids with four pairs of legs.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.arachnid.v1",
+      "conceptId": "arachnid",
+      "prompt": "Think carefully: How many legs does a typical adult spider have?",
+      "options": [
+        "Six",
+        "Eight",
+        "Four"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spiders are arachnids with four pairs of legs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.arachnid.v2",
+      "conceptId": "arachnid",
+      "prompt": "Level challenge — How many legs does a typical adult spider have?",
+      "options": [
+        "Six",
+        "Four",
+        "Eight"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spiders are arachnids with four pairs of legs.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.arachnid.v3",
+      "conceptId": "arachnid",
+      "prompt": "Choose the best answer: How many legs does a typical adult spider have?",
+      "options": [
+        "Eight",
+        "Four",
+        "Six"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spiders are arachnids with four pairs of legs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.arachnid.v4",
+      "conceptId": "arachnid",
+      "prompt": "Final clue — How many legs does a typical adult spider have?",
+      "options": [
+        "Four",
+        "Eight",
+        "Six"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spiders are arachnids with four pairs of legs.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.camouflage.v0",
+      "conceptId": "camouflage",
+      "prompt": "What is camouflage used for?",
+      "options": [
+        "Blending with surroundings",
+        "Making every animal louder",
+        "Changing the weather"
+      ],
+      "correctIndex": 0,
+      "explanation": "Camouflage can help animals hide from predators or prey.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.camouflage.v1",
+      "conceptId": "camouflage",
+      "prompt": "Think carefully: What is camouflage used for?",
+      "options": [
+        "Making every animal louder",
+        "Blending with surroundings",
+        "Changing the weather"
+      ],
+      "correctIndex": 1,
+      "explanation": "Camouflage can help animals hide from predators or prey.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.camouflage.v2",
+      "conceptId": "camouflage",
+      "prompt": "Level challenge — What is camouflage used for?",
+      "options": [
+        "Making every animal louder",
+        "Changing the weather",
+        "Blending with surroundings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Camouflage can help animals hide from predators or prey.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.camouflage.v3",
+      "conceptId": "camouflage",
+      "prompt": "Choose the best answer: What is camouflage used for?",
+      "options": [
+        "Blending with surroundings",
+        "Changing the weather",
+        "Making every animal louder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Camouflage can help animals hide from predators or prey.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.camouflage.v4",
+      "conceptId": "camouflage",
+      "prompt": "Final clue — What is camouflage used for?",
+      "options": [
+        "Changing the weather",
+        "Blending with surroundings",
+        "Making every animal louder"
+      ],
+      "correctIndex": 1,
+      "explanation": "Camouflage can help animals hide from predators or prey.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.taxonomy.v0",
+      "conceptId": "taxonomy",
+      "prompt": "What is taxonomy?",
+      "options": [
+        "Science of naming and classifying organisms",
+        "Study of clouds",
+        "Rocket engineering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taxonomy organises biodiversity using shared characteristics.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.taxonomy.v1",
+      "conceptId": "taxonomy",
+      "prompt": "Think carefully: What is taxonomy?",
+      "options": [
+        "Study of clouds",
+        "Science of naming and classifying organisms",
+        "Rocket engineering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taxonomy organises biodiversity using shared characteristics.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.taxonomy.v2",
+      "conceptId": "taxonomy",
+      "prompt": "Level challenge — What is taxonomy?",
+      "options": [
+        "Study of clouds",
+        "Rocket engineering",
+        "Science of naming and classifying organisms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taxonomy organises biodiversity using shared characteristics.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.taxonomy.v3",
+      "conceptId": "taxonomy",
+      "prompt": "Choose the best answer: What is taxonomy?",
+      "options": [
+        "Science of naming and classifying organisms",
+        "Rocket engineering",
+        "Study of clouds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taxonomy organises biodiversity using shared characteristics.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.taxonomy.v4",
+      "conceptId": "taxonomy",
+      "prompt": "Final clue — What is taxonomy?",
+      "options": [
+        "Rocket engineering",
+        "Science of naming and classifying organisms",
+        "Study of clouds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taxonomy organises biodiversity using shared characteristics.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.uncertain.v0",
+      "conceptId": "uncertain",
+      "prompt": "What should you report when a photo lacks enough identification clues?",
+      "options": [
+        "Uncertainty",
+        "A made-up certainty",
+        "No evidence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Responsible identification states uncertainty and seeks more evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.uncertain.v1",
+      "conceptId": "uncertain",
+      "prompt": "Think carefully: What should you report when a photo lacks enough identification clues?",
+      "options": [
+        "A made-up certainty",
+        "Uncertainty",
+        "No evidence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Responsible identification states uncertainty and seeks more evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.uncertain.v2",
+      "conceptId": "uncertain",
+      "prompt": "Level challenge — What should you report when a photo lacks enough identification clues?",
+      "options": [
+        "A made-up certainty",
+        "No evidence",
+        "Uncertainty"
+      ],
+      "correctIndex": 2,
+      "explanation": "Responsible identification states uncertainty and seeks more evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.uncertain.v3",
+      "conceptId": "uncertain",
+      "prompt": "Choose the best answer: What should you report when a photo lacks enough identification clues?",
+      "options": [
+        "Uncertainty",
+        "No evidence",
+        "A made-up certainty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Responsible identification states uncertainty and seeks more evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "animal_detective.uncertain.v4",
+      "conceptId": "uncertain",
+      "prompt": "Final clue — What should you report when a photo lacks enough identification clues?",
+      "options": [
+        "No evidence",
+        "Uncertainty",
+        "A made-up certainty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Responsible identification states uncertainty and seeks more evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    }
+  ]
+}
