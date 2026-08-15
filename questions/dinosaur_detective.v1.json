@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "packVersion": 1,
+  "topicId": "dinosaur_detective",
+  "questionCount": 50,
+  "questions": [
+    {
+      "id": "dinosaur_detective.fossil.v0",
+      "conceptId": "fossil",
+      "prompt": "What is a fossil?",
+      "options": [
+        "Preserved evidence of past life",
+        "A living reptile",
+        "A type of cloud"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fossils preserve bodies, traces or signs of ancient life.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.fossil.v1",
+      "conceptId": "fossil",
+      "prompt": "Think carefully: What is a fossil?",
+      "options": [
+        "A living reptile",
+        "Preserved evidence of past life",
+        "A type of cloud"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fossils preserve bodies, traces or signs of ancient life.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.fossil.v2",
+      "conceptId": "fossil",
+      "prompt": "Level challenge — What is a fossil?",
+      "options": [
+        "A living reptile",
+        "A type of cloud",
+        "Preserved evidence of past life"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fossils preserve bodies, traces or signs of ancient life.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.fossil.v3",
+      "conceptId": "fossil",
+      "prompt": "Choose the best answer: What is a fossil?",
+      "options": [
+        "Preserved evidence of past life",
+        "A type of cloud",
+        "A living reptile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fossils preserve bodies, traces or signs of ancient life.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.fossil.v4",
+      "conceptId": "fossil",
+      "prompt": "Final clue — What is a fossil?",
+      "options": [
+        "A type of cloud",
+        "Preserved evidence of past life",
+        "A living reptile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fossils preserve bodies, traces or signs of ancient life.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.footprint.v0",
+      "conceptId": "footprint",
+      "prompt": "What kind of fossil is a dinosaur footprint?",
+      "options": [
+        "Trace fossil",
+        "Body fossil only",
+        "Mineral crystal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tracks are trace fossils showing activity.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.footprint.v1",
+      "conceptId": "footprint",
+      "prompt": "Think carefully: What kind of fossil is a dinosaur footprint?",
+      "options": [
+        "Body fossil only",
+        "Trace fossil",
+        "Mineral crystal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tracks are trace fossils showing activity.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.footprint.v2",
+      "conceptId": "footprint",
+      "prompt": "Level challenge — What kind of fossil is a dinosaur footprint?",
+      "options": [
+        "Body fossil only",
+        "Mineral crystal",
+        "Trace fossil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tracks are trace fossils showing activity.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.footprint.v3",
+      "conceptId": "footprint",
+      "prompt": "Choose the best answer: What kind of fossil is a dinosaur footprint?",
+      "options": [
+        "Trace fossil",
+        "Mineral crystal",
+        "Body fossil only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tracks are trace fossils showing activity.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.footprint.v4",
+      "conceptId": "footprint",
+      "prompt": "Final clue — What kind of fossil is a dinosaur footprint?",
+      "options": [
+        "Mineral crystal",
+        "Trace fossil",
+        "Body fossil only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tracks are trace fossils showing activity.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.teeth.v0",
+      "conceptId": "teeth",
+      "prompt": "What can dinosaur teeth suggest?",
+      "options": [
+        "What it ate",
+        "Its exact colour",
+        "Its name"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tooth shapes offer clues about diet.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.teeth.v1",
+      "conceptId": "teeth",
+      "prompt": "Think carefully: What can dinosaur teeth suggest?",
+      "options": [
+        "Its exact colour",
+        "What it ate",
+        "Its name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tooth shapes offer clues about diet.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.teeth.v2",
+      "conceptId": "teeth",
+      "prompt": "Level challenge — What can dinosaur teeth suggest?",
+      "options": [
+        "Its exact colour",
+        "Its name",
+        "What it ate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tooth shapes offer clues about diet.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.teeth.v3",
+      "conceptId": "teeth",
+      "prompt": "Choose the best answer: What can dinosaur teeth suggest?",
+      "options": [
+        "What it ate",
+        "Its name",
+        "Its exact colour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tooth shapes offer clues about diet.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.teeth.v4",
+      "conceptId": "teeth",
+      "prompt": "Final clue — What can dinosaur teeth suggest?",
+      "options": [
+        "Its name",
+        "What it ate",
+        "Its exact colour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tooth shapes offer clues about diet.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.layers.v0",
+      "conceptId": "layers",
+      "prompt": "Where are older undisturbed rock layers usually found?",
+      "options": [
+        "Below younger layers",
+        "Always above them",
+        "Only underwater"
+      ],
+      "correctIndex": 0,
+      "explanation": "Superposition places older layers below younger ones.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.layers.v1",
+      "conceptId": "layers",
+      "prompt": "Think carefully: Where are older undisturbed rock layers usually found?",
+      "options": [
+        "Always above them",
+        "Below younger layers",
+        "Only underwater"
+      ],
+      "correctIndex": 1,
+      "explanation": "Superposition places older layers below younger ones.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.layers.v2",
+      "conceptId": "layers",
+      "prompt": "Level challenge — Where are older undisturbed rock layers usually found?",
+      "options": [
+        "Always above them",
+        "Only underwater",
+        "Below younger layers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Superposition places older layers below younger ones.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.layers.v3",
+      "conceptId": "layers",
+      "prompt": "Choose the best answer: Where are older undisturbed rock layers usually found?",
+      "options": [
+        "Below younger layers",
+        "Only underwater",
+        "Always above them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Superposition places older layers below younger ones.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.layers.v4",
+      "conceptId": "layers",
+      "prompt": "Final clue — Where are older undisturbed rock layers usually found?",
+      "options": [
+        "Only underwater",
+        "Below younger layers",
+        "Always above them"
+      ],
+      "correctIndex": 1,
+      "explanation": "Superposition places older layers below younger ones.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.bones.v0",
+      "conceptId": "bones",
+      "prompt": "Who studies fossils professionally?",
+      "options": [
+        "Palaeontologist",
+        "Meteorologist",
+        "Astronaut only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Palaeontologists study ancient life through fossils.",
+      "difficulty": "easy",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.bones.v1",
+      "conceptId": "bones",
+      "prompt": "Think carefully: Who studies fossils professionally?",
+      "options": [
+        "Meteorologist",
+        "Palaeontologist",
+        "Astronaut only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Palaeontologists study ancient life through fossils.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.bones.v2",
+      "conceptId": "bones",
+      "prompt": "Level challenge — Who studies fossils professionally?",
+      "options": [
+        "Meteorologist",
+        "Astronaut only",
+        "Palaeontologist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Palaeontologists study ancient life through fossils.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.bones.v3",
+      "conceptId": "bones",
+      "prompt": "Choose the best answer: Who studies fossils professionally?",
+      "options": [
+        "Palaeontologist",
+        "Astronaut only",
+        "Meteorologist"
+      ],
+      "correctIndex": 0,
+      "explanation": "Palaeontologists study ancient life through fossils.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.bones.v4",
+      "conceptId": "bones",
+      "prompt": "Final clue — Who studies fossils professionally?",
+      "options": [
+        "Astronaut only",
+        "Palaeontologist",
+        "Meteorologist"
+      ],
+      "correctIndex": 1,
+      "explanation": "Palaeontologists study ancient life through fossils.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.birds.v0",
+      "conceptId": "birds",
+      "prompt": "Which living animals are dinosaurs’ surviving descendants?",
+      "options": [
+        "Birds",
+        "Frogs",
+        "Whales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Modern birds evolved from theropod dinosaurs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.birds.v1",
+      "conceptId": "birds",
+      "prompt": "Think carefully: Which living animals are dinosaurs’ surviving descendants?",
+      "options": [
+        "Frogs",
+        "Birds",
+        "Whales"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modern birds evolved from theropod dinosaurs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.birds.v2",
+      "conceptId": "birds",
+      "prompt": "Level challenge — Which living animals are dinosaurs’ surviving descendants?",
+      "options": [
+        "Frogs",
+        "Whales",
+        "Birds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Modern birds evolved from theropod dinosaurs.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.birds.v3",
+      "conceptId": "birds",
+      "prompt": "Choose the best answer: Which living animals are dinosaurs’ surviving descendants?",
+      "options": [
+        "Birds",
+        "Whales",
+        "Frogs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Modern birds evolved from theropod dinosaurs.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.birds.v4",
+      "conceptId": "birds",
+      "prompt": "Final clue — Which living animals are dinosaurs’ surviving descendants?",
+      "options": [
+        "Whales",
+        "Birds",
+        "Frogs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modern birds evolved from theropod dinosaurs.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.extinction.v0",
+      "conceptId": "extinction",
+      "prompt": "When did non-avian dinosaurs become extinct?",
+      "options": [
+        "About 66 million years ago",
+        "600 years ago",
+        "Before Earth formed"
+      ],
+      "correctIndex": 0,
+      "explanation": "The end-Cretaceous extinction occurred about 66 million years ago.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.extinction.v1",
+      "conceptId": "extinction",
+      "prompt": "Think carefully: When did non-avian dinosaurs become extinct?",
+      "options": [
+        "600 years ago",
+        "About 66 million years ago",
+        "Before Earth formed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The end-Cretaceous extinction occurred about 66 million years ago.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.extinction.v2",
+      "conceptId": "extinction",
+      "prompt": "Level challenge — When did non-avian dinosaurs become extinct?",
+      "options": [
+        "600 years ago",
+        "Before Earth formed",
+        "About 66 million years ago"
+      ],
+      "correctIndex": 2,
+      "explanation": "The end-Cretaceous extinction occurred about 66 million years ago.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.extinction.v3",
+      "conceptId": "extinction",
+      "prompt": "Choose the best answer: When did non-avian dinosaurs become extinct?",
+      "options": [
+        "About 66 million years ago",
+        "Before Earth formed",
+        "600 years ago"
+      ],
+      "correctIndex": 0,
+      "explanation": "The end-Cretaceous extinction occurred about 66 million years ago.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.extinction.v4",
+      "conceptId": "extinction",
+      "prompt": "Final clue — When did non-avian dinosaurs become extinct?",
+      "options": [
+        "Before Earth formed",
+        "About 66 million years ago",
+        "600 years ago"
+      ],
+      "correctIndex": 1,
+      "explanation": "The end-Cretaceous extinction occurred about 66 million years ago.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.asteroid.v0",
+      "conceptId": "asteroid",
+      "prompt": "Which impact site is linked to the end-Cretaceous extinction?",
+      "options": [
+        "Chicxulub",
+        "Everest",
+        "Mariana Trench"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Chicxulub impact contributed to global environmental change.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.asteroid.v1",
+      "conceptId": "asteroid",
+      "prompt": "Think carefully: Which impact site is linked to the end-Cretaceous extinction?",
+      "options": [
+        "Everest",
+        "Chicxulub",
+        "Mariana Trench"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Chicxulub impact contributed to global environmental change.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.asteroid.v2",
+      "conceptId": "asteroid",
+      "prompt": "Level challenge — Which impact site is linked to the end-Cretaceous extinction?",
+      "options": [
+        "Everest",
+        "Mariana Trench",
+        "Chicxulub"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Chicxulub impact contributed to global environmental change.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.asteroid.v3",
+      "conceptId": "asteroid",
+      "prompt": "Choose the best answer: Which impact site is linked to the end-Cretaceous extinction?",
+      "options": [
+        "Chicxulub",
+        "Mariana Trench",
+        "Everest"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Chicxulub impact contributed to global environmental change.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.asteroid.v4",
+      "conceptId": "asteroid",
+      "prompt": "Final clue — Which impact site is linked to the end-Cretaceous extinction?",
+      "options": [
+        "Mariana Trench",
+        "Chicxulub",
+        "Everest"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Chicxulub impact contributed to global environmental change.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.coprolite.v0",
+      "conceptId": "coprolite",
+      "prompt": "What is a coprolite?",
+      "options": [
+        "Fossilised dung",
+        "A dinosaur egg only",
+        "A volcanic rock"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coprolites reveal clues about ancient diets.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.coprolite.v1",
+      "conceptId": "coprolite",
+      "prompt": "Think carefully: What is a coprolite?",
+      "options": [
+        "A dinosaur egg only",
+        "Fossilised dung",
+        "A volcanic rock"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coprolites reveal clues about ancient diets.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.coprolite.v2",
+      "conceptId": "coprolite",
+      "prompt": "Level challenge — What is a coprolite?",
+      "options": [
+        "A dinosaur egg only",
+        "A volcanic rock",
+        "Fossilised dung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coprolites reveal clues about ancient diets.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.coprolite.v3",
+      "conceptId": "coprolite",
+      "prompt": "Choose the best answer: What is a coprolite?",
+      "options": [
+        "Fossilised dung",
+        "A volcanic rock",
+        "A dinosaur egg only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coprolites reveal clues about ancient diets.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.coprolite.v4",
+      "conceptId": "coprolite",
+      "prompt": "Final clue — What is a coprolite?",
+      "options": [
+        "A volcanic rock",
+        "Fossilised dung",
+        "A dinosaur egg only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coprolites reveal clues about ancient diets.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.evidence.v0",
+      "conceptId": "evidence",
+      "prompt": "What should scientists do when new fossil evidence conflicts with an idea?",
+      "options": [
+        "Revise the idea",
+        "Hide the fossil",
+        "Ignore the evidence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scientific explanations must respond to reliable evidence.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.evidence.v1",
+      "conceptId": "evidence",
+      "prompt": "Think carefully: What should scientists do when new fossil evidence conflicts with an idea?",
+      "options": [
+        "Hide the fossil",
+        "Revise the idea",
+        "Ignore the evidence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scientific explanations must respond to reliable evidence.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.evidence.v2",
+      "conceptId": "evidence",
+      "prompt": "Level challenge — What should scientists do when new fossil evidence conflicts with an idea?",
+      "options": [
+        "Hide the fossil",
+        "Ignore the evidence",
+        "Revise the idea"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scientific explanations must respond to reliable evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.evidence.v3",
+      "conceptId": "evidence",
+      "prompt": "Choose the best answer: What should scientists do when new fossil evidence conflicts with an idea?",
+      "options": [
+        "Revise the idea",
+        "Ignore the evidence",
+        "Hide the fossil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scientific explanations must respond to reliable evidence.",
+      "difficulty": "medium",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    },
+    {
+      "id": "dinosaur_detective.evidence.v4",
+      "conceptId": "evidence",
+      "prompt": "Final clue — What should scientists do when new fossil evidence conflicts with an idea?",
+      "options": [
+        "Ignore the evidence",
+        "Revise the idea",
+        "Hide the fossil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scientific explanations must respond to reliable evidence.",
+      "difficulty": "hard",
+      "ageBands": [
+        "explorer6to8",
+        "adventurer9to11",
+        "creator12to14"
+      ]
+    }
+  ]
+}
